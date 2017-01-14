@@ -1,7 +1,7 @@
 ---
 layout: post
 year: 2015
-title: ARCHISTAR: Towards Secure and Robust Cloud Based Data Sharing
+title: "ARCHISTAR: Towards Secure and Robust Cloud Based Data Sharing"
 authors: Thomas Lorünser, Andreas Happe, Daniel Slamanig
 venue: CloudCom 2015
 vurl: http://2015.cloudcom.org
