@@ -1,0 +1,14 @@
+---
+layout: post
+year: 2013
+title: "Blank Digital Signatures"
+authors: Christian Hanser, Daniel Slamanig
+venue: ASIACCS 2013
+vurl: http://dl.acm.org/event.cfm?id=RE289
+web: http://eprint.iacr.org/2013/130
+pdf: http://eprint.iacr.org/2013/130.pdf
+pub: http://doi.acm.org/10.1145/2484313.2484324
+bib: http://dblp.uni-trier.de/rec/bib/conf/ccs/HanserS13
+
+---
+

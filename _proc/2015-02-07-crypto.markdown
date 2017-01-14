@@ -1,0 +1,14 @@
+---
+layout: post
+year: 2015
+title: Practical Round-Optimal Blind Signatures in the Standard Model
+authors: Georg Fuchsbauer, Christian Hanser, Daniel Slamanig
+venue: CRYPTO 2015
+vurl: https://www.iacr.org/conferences/crypto2015/
+pdf: http://eprint.iacr.org/2015/626.pdf
+pub: http://dx.doi.org/10.1007/978-3-662-48000-7_12
+web: http://eprint.iacr.org/2015/626
+bib: http://dblp.uni-trier.de/rec/bib/conf/crypto/FuchsbauerHS15
+
+---
+

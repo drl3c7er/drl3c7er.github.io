@@ -1,0 +1,13 @@
+---
+layout: post
+year: 2012
+title: "The Austrian eID ecosystem in the public cloud: How to obtain privacy while preserving practicality"
+authors: Bernd Zwattendorfer, Daniel Slamanig
+venue: J. Inf. Sec. Appl.
+vatt: "27-28, 2016"
+pub: http://dx.doi.org/10.1016/j.jisa.2015.11.004
+web: https://arxiv.org/abs/1601.03533
+pdf: https://arxiv.org/pdf/1601.03533v1
+bib: http://dblp.uni-trier.de/rec/bib/journals/istr/ZwattendorferS16
+
+---

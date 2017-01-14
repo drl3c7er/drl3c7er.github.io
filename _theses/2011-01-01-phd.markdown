@@ -1,0 +1,9 @@
+---
+layout: post
+year: 2011
+title:  "Efficient and Practical Protocols for Privacy in Cloud Computing"
+authors: David Derler
+venue: PhD Thesis, Alpen-Adria-Universität, 2011 
+
+---
+

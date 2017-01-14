@@ -1,0 +1,12 @@
+---
+layout: post
+year: 2012
+title: "Efficient Schemes for Anonymous Yet Authorized and Bounded Use of Cloud Resources"
+authors: Daniel Slamanig
+venue: SAC 2011
+vurl: http://sacconference.org/SAC11/SAC2011.html
+pub: http://dx.doi.org/10.1007/978-3-642-28496-0_5
+bib: http://dblp.uni-trier.de/rec/bib/conf/sacrypt/Slamanig11
+
+---
+

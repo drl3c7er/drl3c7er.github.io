@@ -1,0 +1,35 @@
+# Site metadata
+keywords: Cryptography, Privacy, Digital Signatures, Graz University of Technology, IAIK
+description: Academic Website of Daniel Slamanig, IAIK, Graz University of Technology, Graz, Austria
+title: Daniel Slamanig | IAIK, Graz University of Technology
+
+author: Daniel Slamanig
+authorimg: images/ds.png
+authoroccup: Researcher in Cryptography
+
+inst: IAIK
+insturl: http://www.iaik.tugraz.at
+uni: Graz University of Technology
+uniurl: http://www.tugraz.at
+
+stackex: users/3352097/drlecter
+twitter: drl3c7er
+linkedin: danielslamanig
+dblp: hd/d/Slamanig:Daniel
+scholar: DoAyhP4AAAAJ
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+collections:
+  - preprints
+  - proc
+  - articles
+  - books
+  - theses
+  - deli
+exclude:
+  - Gemfile
+  - Gemfile.lock

@@ -1,0 +1,10 @@
+---
+layout: post
+year: 2015
+title: "Design strategies for a privacy-friendly Austrian eID system in the public cloud"
+authors: Bernd Zwattendorfer, Daniel Slamanig
+venue: Computers & Security
+vatt: "52, 2015"
+pub: http://dx.doi.org/10.1016/j.cose.2015.03.002
+bib: http://dblp.uni-trier.de/rec/bib/journals/compsec/ZwattendorferS15
+---

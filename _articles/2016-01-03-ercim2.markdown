@@ -1,0 +1,10 @@
+---
+layout: post
+year: 2016
+title: "A New Architecture for Developing Cryptographic Cloud Services"
+authors: Thomas Lorünser, Daniel Slamanig, Thomas Länger, Henrich C. Pöhls
+venue: {ERCIM} News
+vatt: 106, 2016
+pub: http://ercim-news.ercim.eu/en106/special/a-new-architecture-for-developing-cryptographic-cloud-services
+bib: http://dblp.uni-trier.de/rec/bib/journals/ercim/LorunserSLP16
+---

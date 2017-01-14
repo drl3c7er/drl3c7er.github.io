@@ -1,0 +1,10 @@
+---
+layout: post
+year: 2012
+title: "Vollständigkeitsnachweis für Daten im Cloud Computing"
+authors: Daniel Slamanig, Christian Stingl
+venue: Datenschutz und Datensicherheit
+vatt: "36(7), 2012"
+pub: http://dx.doi.org/10.1007/s11623-012-0169-4
+bib: http://dblp.uni-trier.de/rec/bib/journals/dud/SlamanigS12
+---
