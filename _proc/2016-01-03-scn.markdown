@@ -1,0 +1,14 @@
+---
+layout: post
+year: 2016
+title:  "Practical Round-Optimal Blind Signatures in the Standard Model from Weaker Assumptions"
+authors: Georg Fuchsbauer, Christian Hanser, Chethan Kamath, Daniel Slamanig
+venue: SCN 2016
+vurl: http://scn.di.unisa.it
+pdf: http://eprint.iacr.org/2016/662.pdf
+pub: http://dx.doi.org/10.1007/978-3-319-44618-9_21
+web: http://eprint.iacr.org/2016/662
+bib: http://dblp.uni-trier.de/rec/bib/conf/scn/FuchsbauerHKS16
+
+---
+
