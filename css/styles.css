@@ -1,7 +1,7 @@
 body {
   background-color: #fff;
   padding:50px;
-  font: 14px/1.5 overlock-regular, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font: 14px/1.5 overlock-regular;
   color:#595959;
   font-weight:400;
 }
@@ -44,11 +44,11 @@ a:hover {
 }
 
 .extlinks a {
-  color:#006600;
+  color:#008000;
 }
 
 .extlinks a:hover {
-  color:#452dbf;
+  color:#006600;
 }
 
 table.dltable {
