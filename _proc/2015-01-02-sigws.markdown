@@ -1,7 +1,7 @@
 ---
 layout: post
 year: 2015
-title: Signatures for Privacy, Trust and Accountability in the Cloud: Applications and Requirements
+title: "Signatures for Privacy, Trust and Accountability in the Cloud: Applications and Requirements"
 authors: Alaa Alaqra, Simone Fischer-Hübner, Thomas Groß, Thomas Lorünser, Daniel Slamanig
 venue: Privacy and Identity Management 2015
 vurl: http://dblp.uni-trier.de/db/conf/primelife/pim2015.html
