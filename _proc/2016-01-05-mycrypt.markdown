@@ -1,7 +1,7 @@
 ---
 layout: post
 year: 2016
-title:  "Group Signatures with Linking-Based Revocation: A Pragmatic Approach for Efficient Revocation Checks"
+title:  "Linking-Based Revocation for Group Signatures: A Pragmatic Approach for Efficient Revocation Checks"
 authors: Daniel Slamanig, Raphael Spreitzer, Thomas Unterluggauer
 venue: MYCRYPT 2016
 vurl: https://foe.mmu.edu.my/mycrypt2016/
