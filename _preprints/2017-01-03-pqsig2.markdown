@@ -6,5 +6,6 @@ authors: Melissa Chase, David Derler, Steven Goldfeder, Claudio Orlandi, Sebasti
 venue: IACR Cryptology ePrint Archive Report 2017/279 (merge of ePrint 2016/1085 and ePrint 2016/1110)
 pdf: http://eprint.iacr.org/2017/279.pdf
 web: http://eprint.iacr.org/2017/279
+bib: http://dblp.uni-trier.de/rec/bibtex/journals/iacr/ChaseDGORRSZ17
 ---
 
