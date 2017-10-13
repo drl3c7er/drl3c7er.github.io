@@ -31,6 +31,8 @@ collections:
   - books
   - theses
   - deli
+include:
+  - keybase.txt
 exclude:
   - Gemfile
   - Gemfile.lock
