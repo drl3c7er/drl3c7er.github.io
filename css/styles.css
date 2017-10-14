@@ -1,7 +1,8 @@
 body {
   background-color: #fff;
   padding:50px;
-  font: 17px/1.5 'Encode Sans Expanded';
+  font-family: 'Encode Sans Expanded', regular;
+  font-size: 16px;
   color:#595959;
   font-weight:400;
 }
