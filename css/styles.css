@@ -165,10 +165,12 @@ header li {
 
 header .affil {
   margin: 0 0 10px;
+  text-align:center;
 }
 
 header .occup {
   margin: 0 0 0px;
+  text-align:center;
 }
 
 strong {
