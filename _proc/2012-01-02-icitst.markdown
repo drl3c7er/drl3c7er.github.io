@@ -1,6 +1,6 @@
 ---
 layout: post
-year: 2013
+year: 2012
 title: "On cloud storage and the cloud of clouds approach"
 authors: Daniel Slamanig, Christian Hanser
 venue: ICITST 2012

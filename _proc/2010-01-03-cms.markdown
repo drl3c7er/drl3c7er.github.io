@@ -1,7 +1,7 @@
 ---
 layout: post
 year: 2011
-title: "Generalizations and Extensions of Redactable Signatures with Applications to Electronic Healthcare (Best paper awards)"
+title: "Generalizations and Extensions of Redactable Signatures with Applications to Electronic Healthcare (Best paper award)"
 authors: Daniel Slamanig, Stefan Rass
 venue: CMS 2010
 vurl: http://www.ifip.org/Cfp/CfP-CMS%202010.htm
