@@ -4,6 +4,7 @@ year: 2008
 title: "Privacy-enhancing methods for e-health applications: how to prevent statistical analyses and attacks"
 authors: Christian Stingl, Daniel Slamanig
 venue: Int. J. Business Intelligence and Data Mining
+vurl: http://www.inderscience.com/jhome.php?jcode=ijbidm
 vatt: "3(3), 2008"
 pub: http://dx.doi.org/10.1504/IJBIDM.2008.022135
 bib: http://dblp.uni-trier.de/rec/bib/journals/ijbidm/StinglS08

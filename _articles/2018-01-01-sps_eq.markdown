@@ -4,6 +4,7 @@ year: 2018
 title: Structure-Preserving Signatures on Equivalence Classes and Constant-Size Anonymous Credentials
 authors: Georg Fuchsbauer, Christian Hanser, Daniel Slamanig
 venue: Journal of Cryptology (accepted)
+vurl: https://www.iacr.org/jofc/
 pdf: http://eprint.iacr.org/2014/944.pdf
 web: http://eprint.iacr.org/2014/944
 bib: http://eprint.iacr.org/eprint-bin/cite.pl?entry=2014/944

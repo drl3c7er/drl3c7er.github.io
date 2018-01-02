@@ -4,6 +4,7 @@ year: 2015
 title: "On the Feasibility of (Practical) Commercial Anonymous Cloud Storage"
 authors: Tobias Pulls, Daniel Slamanig
 venue: Trans. Data Privacy
+vurl: http://www.tdp.cat/
 vatt: "8(2), 2015"
 pub: http://www.tdp.cat/
 pdf: http://www.tdp.cat/issues11/tdp.a164a14.pdf
