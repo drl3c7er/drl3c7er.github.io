@@ -8,5 +8,6 @@ vurl: https://fc17.ifca.ai/
 web: https://eprint.iacr.org/2017/086
 pdf: https://eprint.iacr.org/2017/086.pdf
 pub: https://doi.org/10.1007/978-3-319-70972-7_7
+bib: http://dblp.uni-trier.de/rec/bibtex/conf/fc/DerlerRS17
 ---
 
