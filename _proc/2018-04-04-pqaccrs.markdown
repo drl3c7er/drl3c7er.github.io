@@ -1,6 +1,6 @@
 ---
 layout: post
-year: 2017	
+year: 2018	
 title: Post-Quantum Zero-Knowledge Proofs for Accumulators with Applications to Ring Signatures from Symmetric-Key Primitives
 authors: David Derler, Sebastian Ramacher, Daniel Slamanig
 venue: PQCrypto 2018
