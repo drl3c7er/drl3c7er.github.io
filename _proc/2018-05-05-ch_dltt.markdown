@@ -4,7 +4,8 @@ year: 2018
 title:  Chameleon-Hashes with Dual Long-Term Trapdoors and Their Applications
 authors: Stephan Krenn, Henrich C. Pöhls, Kai Samelin, Daniel Slamanig
 venue: AFRICACRYPT 2018
-vatt: (accepted)
 vurl: https://africacrypt2018.aui.ma/
+pub: https://doi.org/10.1007/978-3-319-89339-6_2
+bib: http://dblp.uni-trier.de/rec/bibtex/conf/africacrypt/KrennPSS18
 ---
 
