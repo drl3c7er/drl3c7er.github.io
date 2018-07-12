@@ -7,6 +7,7 @@ venue: IEEE EuroS&amp;P 2018
 vurl: https://www.ieee-security.org/TC/EuroSP2018/
 pdf: http://eprint.iacr.org/2017/1203.pdf
 web: http://eprint.iacr.org/2017/1203
-vatt: (accepted)
+pub: https://doi.org/10.1109/EuroSP.2018.00027
+bib: http://dblp.uni-trier.de/rec/bibtex/conf/eurosp/DerlerRS18
 ---
 
