@@ -5,9 +5,9 @@ title: "Key-Homomorphic Signatures: Definitions and Applications to Multiparty S
 authors: David Derler, Daniel Slamanig
 venue: Designs, Codes and Cryptography
 vurl: http://www.springer.com/mathematics/journal/10623
-vatt: (accepted)
 pdf: http://eprint.iacr.org/2016/792.pdf
 web: http://eprint.iacr.org/2016/792
 bib: http://dblp.uni-trier.de/rec/bibtex/journals/iacr/DerlerS16a
+pub: https://doi.org/10.1007/s10623-018-0535-9
 ---
 
