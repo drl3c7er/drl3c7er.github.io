@@ -8,6 +8,6 @@ vurl: http://www.math.fau.edu/pqcrypto2018/
 pdf: https://eprint.iacr.org/2017/1154.pdf
 web: https://eprint.iacr.org/2017/1154
 pub: https://doi.org/10.1007/978-3-319-79063-3_20
-bib: http://dblp.uni-trier.de/rec/bibtex/journals/iacr/DerlerRS17a
+bib: https://dblp.uni-trier.de/rec/bibtex/conf/pqcrypto/DerlerRS18
 ---
 

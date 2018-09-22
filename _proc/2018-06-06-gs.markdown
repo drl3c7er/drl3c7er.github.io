@@ -8,7 +8,7 @@ vurl: http://asiaccs2018.org/
 pub: https://doi.org/10.1145/3196494.3196507
 pdf: http://eprint.iacr.org/2016/154.pdf
 web: http://eprint.iacr.org/2016/154
-bib: http://dblp.uni-trier.de/rec/bibtex/journals/iacr/DerlerS16
+bib: https://dblp.uni-trier.de/rec/bibtex/conf/ccs/DerlerS18
 talk: publications/talks/gs_asiaccs18.pdf
 ---
 

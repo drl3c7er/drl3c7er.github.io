@@ -5,6 +5,8 @@ title: Protean Signature Schemes
 authors: Stephan Krenn, Henrich C. Pöhls, Kai Samelin, Daniel Slamanig
 venue: CANS 2018
 vurl: http://cans2018.na.icar.cnr.it/
-vatt: (accepted)
+pub: https://doi.org/10.1007/978-3-030-00434-7_13
+bib: https://dblp.uni-trier.de/rec/bibtex/conf/cans/KrennPSS18
+
 ---
 
