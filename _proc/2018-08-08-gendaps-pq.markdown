@@ -9,7 +9,6 @@ pdf: http://eprint.iacr.org/2018/790.pdf
 web: http://eprint.iacr.org/2018/790
 pub: https://doi.org/10.1007/978-3-030-01446-9_15
 bib: https://dblp.uni-trier.de/rec/bibtex/conf/provsec/DerlerRS18
-vatt: (accepted)
 ---
 
 
