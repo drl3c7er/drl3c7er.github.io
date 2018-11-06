@@ -4,7 +4,7 @@ https://keybase.io/drl3c7er
 
 I hereby claim:
 
-  * I am an admin of https://drl3c7er.github.io
+  * I am an admin of https://danielslamanig.info
   * I am drl3c7er (https://keybase.io/drl3c7er) on keybase.
   * I have a public key ASAzcsBn5l4YWVOYtNB8Jx_jyBH76rRISXe0o-no8bLbwAo
 
@@ -20,32 +20,33 @@ To do so, I am signing this object:
       "username": "drl3c7er"
     },
     "merkle_root": {
-      "ctime": 1507887546,
-      "hash": "1332c6e70abd5f20a7fed678ac865248ccd32caace266185ef37f3ebe8486d5dd12a41b1c8378db8e9eb746f994b8d0b2bb22a1d0fc2bc438a54e7edd73cdbc8",
-      "hash_meta": "6310d6c92e8996e41d188cce74f6169641763d11c66e6998889c3b9fae0d2989",
-      "seqno": 1571538
+      "ctime": 1541495918,
+      "hash": "5b39174bce319de60038dde382c7350a125ba0a169c940a8b8d12d9f03878d7dcb383efd5da9cbc23c5d62fdf27dc4356c7c1352b850955b24cfce9f5babf11c",
+      "hash_meta": "fbec25dcb40f7420cabc118a8ee6be180248b7bf56b78ce04df2c89307fd45b0",
+      "seqno": 3902891
     },
     "service": {
-      "hostname": "drl3c7er.github.io",
+      "entropy": "kmqXh+ruRcL9zSeksYjXtukY",
+      "hostname": "danielslamanig.info",
       "protocol": "https:"
     },
     "type": "web_service_binding",
-    "version": 1
+    "version": 2
   },
   "client": {
     "name": "keybase.io go client",
-    "version": "1.0.34"
+    "version": "2.9.0"
   },
-  "ctime": 1507887561,
+  "ctime": 1541495962,
   "expire_in": 504576000,
-  "prev": "f71f917209db6fd2d5128c37a9a238853809e2829a058acc01583e6af8f95aef",
-  "seqno": 7,
+  "prev": "ba40870c7a389fae1a50e40c807092193cd0cb258ede0009cb6ddce56a0edf9e",
+  "seqno": 30,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgM3LAZ+ZeGFlTmLTQfCcf48gR++q0SEl3tKPp6PGy28AKp3BheWxvYWTFA0p7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMzM3MmMwNjdlNjVlMTg1OTUzOThiNGQwN2MyNzFmZTNjODExZmJlYWI0NDg0OTc3YjRhM2U5ZThmMWIyZGJjMDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMzM3MmMwNjdlNjVlMTg1OTUzOThiNGQwN2MyNzFmZTNjODExZmJlYWI0NDg0OTc3YjRhM2U5ZThmMWIyZGJjMDBhIiwidWlkIjoiOTNkYzA4MTY3MmIwZGUzNTQzMmZjZDI4Yjc5NWJhMTkiLCJ1c2VybmFtZSI6ImRybDNjN2VyIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTA3ODg3NTQ2LCJoYXNoIjoiMTMzMmM2ZTcwYWJkNWYyMGE3ZmVkNjc4YWM4NjUyNDhjY2QzMmNhYWNlMjY2MTg1ZWYzN2YzZWJlODQ4NmQ1ZGQxMmE0MWIxYzgzNzhkYjhlOWViNzQ2Zjk5NGI4ZDBiMmJiMjJhMWQwZmMyYmM0MzhhNTRlN2VkZDczY2RiYzgiLCJoYXNoX21ldGEiOiI2MzEwZDZjOTJlODk5NmU0MWQxODhjY2U3NGY2MTY5NjQxNzYzZDExYzY2ZTY5OTg4ODljM2I5ZmFlMGQyOTg5Iiwic2Vxbm8iOjE1NzE1Mzh9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiZHJsM2M3ZXIuZ2l0aHViLmlvIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzQifSwiY3RpbWUiOjE1MDc4ODc1NjEsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiZjcxZjkxNzIwOWRiNmZkMmQ1MTI4YzM3YTlhMjM4ODUzODA5ZTI4MjlhMDU4YWNjMDE1ODNlNmFmOGY5NWFlZiIsInNlcW5vIjo3LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQFphSxBcH+lHjz/6nUnRHNJ3m81eoIQ8EO95F8tZvR0qSXI6vqJp1kI+LB0t9wOxbPMH97atmyZUG3pPDC76Xg2oc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCBH5LU3LiJBAXhXyGTxlAIxd9tGxC2vHm9WdnTx8eCmL6N0YWfNAgKndmVyc2lvbgE=
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgM3LAZ+ZeGFlTmLTQfCcf48gR++q0SEl3tKPp6PGy28AKp3BheWxvYWTESpcCHsQgukCHDHo4n64aUOQMgHCSGTzQyyWO3gAJy23c5WoO357EIGVKunCw5GYANuJ/dk2n+7eKoqLXmz0+xT7qRiqgoEduAgHCo3NpZ8RAUBnjxXmx0i+I4Y2zWQax7pN0uSuEHSS7AWv1c0x4hEoJBME0bjLvfllm2NADs9bmzLTyELL4UiCAWh1Z1WvMA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIK1e1CCP7O5qkihSp2dS/so+6F/XajkFGNuF8gtplDFBo3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.

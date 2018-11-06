@@ -7,7 +7,9 @@ venue: ProvSec 2018
 vurl: https://ssl.informatics.uow.edu.au/provsec2018/
 pdf: http://eprint.iacr.org/2018/790.pdf
 web: http://eprint.iacr.org/2018/790
-bib: https://dblp.uni-trier.de/rec/bibtex/journals/iacr/DerlerRS18
+pub: https://doi.org/10.1007/978-3-030-01446-9_15
+bib: https://dblp.uni-trier.de/rec/bibtex/conf/provsec/DerlerRS18
 vatt: (accepted)
 ---
+
 
