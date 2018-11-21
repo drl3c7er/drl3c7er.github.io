@@ -1,16 +1,16 @@
+--- 
+layout: default
+--- 
 
 
 
 <h2>AIT Austrian Institute of Technology, Austria</h2>
 <h3>Ph.D. Position (Fully Funded)</h3>
 
---- 
-layout: default
---- 
 
 <b>Project</b>
 
-<p>The cryptography group at AIT Austrian Institute of Technology is looking for a Ph.D. student to work on the FWF netidee SCIENCE research project PROFET (Cryptographic Foundations for Future-proof Internet Security), led by Dr. Daniel Slamanig (AIT) in cooperation with the Security and Privacy group at TU Wien (Prof. Matteo Maffei). The project is planned to start in Q1 2019 and has a duration of 3 years.</p>
+<p>The cryptography group at AIT Austrian Institute of Technology is looking for a Ph.D. student to work on the research project PROFET (Cryptographic Foundations for Future-proof Internet Security), led by Dr. Daniel Slamanig (AIT) in cooperation with the Security and Privacy group at TU Wien (Prof. Matteo Maffei). The project is planned to start in Q1 2019 and has a duration of 3 years.</p>
 
 <p>The project targets at designing public-key cryptography capable to secure tomorrow's Internet which will encompass paradigms such as cloud computing and the IoT as essential ingredients. It specifically puts a focus on two highly important issues for the future: (1) designing security models and cryptographic schemes that are surveillance and subversion resilient by design, e.g., provide strong notions such as forward security and post-compromise security, and 2) designing cryptographic schemes that remain secure in the presence of powerful quantum computers, i.e., schemes that provide post-quantum security (either via generic or direct constructions). The project on the one hand covers foundational aspects, but also investigate the application of the developed techniques to certain problems encountered in the IoT and cloud application scenarios.</p>
 
