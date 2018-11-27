@@ -18,7 +18,7 @@ The exams will be in the slots for the tutorial: the midterm exam is Thursday, D
 
 <p style="text-align:justify;">To get credit for the tutorial, you must get at least 50% of the total points for the homeworks. The concrete grading scheme is grade 1 for 80-100%, 2 for 70-80%, 3 for 60-70%, 4 for 50-60%, 5 (failing grade) for &lt;50%. You can discuss the homeworks in groups, but everyone must write up and hand in the solutions individually.</p>
 
-<p style="text-align:justify;">Lecture material for the first part of the course can be found <a href="" target="_blank">http://pub.ist.ac.at/crypto/ModernCrypto18.html</a>.</p>
+<p style="text-align:justify;">Lecture material for the first part of the course can be found <a href="http://pub.ist.ac.at/crypto/ModernCrypto18.html" target="_blank">here</a>.</p>
 
 <p style="text-align:justify;">Lecture material for the second part of the course can be found below.</p>
 
