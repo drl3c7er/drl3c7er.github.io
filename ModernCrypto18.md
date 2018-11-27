@@ -8,6 +8,9 @@ layout: plain
 <p style="text-align:justify;">Lecturers <a href="http://pub.ist.ac.at/crypto/" target="_blank">Krzysztof Pietrzak</a> (pietrzak@ist.ac.at) and <a href="https://danielslamanig.info" target="_blank">Daniel Slamanig</a> (Daniel.Slamanig@ait.ac.at). 
 </p>
 
+
+<p style="text-align:justify;">Teaching assistans Miachel Walter (michael.walter@ist.ac.at), Karen Klein (karen.klein@ist.ac.at) and Chethan Kamath (ckamath@ist.ac.at).</p> 
+
 <p style="text-align:justify;">The TU website with dates, locations etc. for the <a href="https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=2679&dsrid=508&courseNr=192062&semester=2018W" target="_blank">lecture</a> and the <a href="https://tiss.tuwien.ac.at/course/courseAnnouncement.xhtml?dswid=2679&dsrid=866&courseNumber=192063&courseSemester=2018W">tutorial</a>.</p>
 
 <p style="text-align:justify;">To get credit for the lecture one needs to pass the midterm and final exam. 
