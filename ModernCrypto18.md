@@ -22,5 +22,5 @@ The exams will be in the slots for the tutorial: the midterm exam is Thursday, D
 
 <p style="text-align:justify;">Lecture material for the second part of the course can be found below.</p>
 
-Slides for Lecture 9, Introduction and historical ciphers, Dec. 4th (TBA) <br>
+Slides for Lecture 9, Public Key Revolution I/II, Dec. 4th (TBA) <br>
 Homework 9 (TBA)
