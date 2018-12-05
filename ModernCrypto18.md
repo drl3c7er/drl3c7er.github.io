@@ -22,5 +22,5 @@ The exams will be in the slots for the tutorial: the midterm exam is Thursday, D
 
 <p style="text-align:justify;">Lecture material for the second part of the course can be found below.</p>
 
-Slides for Lecture 9, Public Key Revolution I/II, Dec. 4th (TBA) <br>
-Homework 9 (TBA)
+<a href="https://danielslamanig.info/lectures/MC18_Lecture9.pdf">Slides for Lecture 9, Public Key Revolution I/II, Dec. 4th</a> <br>
+<a href="https://danielslamanig.info/lectures/ModernCrypto18Homework9.pdf">Homework 9</a>
