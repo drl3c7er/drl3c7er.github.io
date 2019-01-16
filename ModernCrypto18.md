@@ -29,7 +29,8 @@ The exams will be in the slots for the tutorial: the midterm exam is Thursday, D
 <a href="https://danielslamanig.info/lectures/ModernCrypto18Homework10.pdf">Homework 10</a><br>
 <a href="https://danielslamanig.info/lectures/ModernCrypto18Homework10_solutions.pdf">Solutions to Homework 10</a><br><br>
 <a href="https://danielslamanig.info/lectures/MC18_Lecture11.pdf">Slides for Lecture 11, Public Key Encryption I/II, Dec. 18th</a><br>
-<a href="https://danielslamanig.info/lectures/ModernCrypto18Homework11.pdf">Homework 11</a><br><br>
+<a href="https://danielslamanig.info/lectures/ModernCrypto18Homework11.pdf">Homework 11</a>
+<a href="https://danielslamanig.info/lectures/ModernCrypto18Homework11_solutions.pdf">Solutions to Homework 11</a><br><br>
 <a href="https://danielslamanig.info/lectures/MC18_Lecture12.pdf">Slides for Lecture 12, Public Key Encryption II/II, Jan. 8th</a><br>
 <a href="https://danielslamanig.info/lectures/ModernCrypto18Homework12.pdf">Homework 12</a><br><br>
 <a href="https://danielslamanig.info/lectures/MC18_Lecture13.pdf">Slides for Lecture 13, Digital Signatures, Jan. 15th</a><br>
