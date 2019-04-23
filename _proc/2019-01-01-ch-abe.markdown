@@ -5,7 +5,9 @@ title: "Fine-Grained and Controlled Rewriting in Blockchains: Chameleon-Hashing 
 authors: David Derler, Kai Samelin, Daniel Slamanig, Christoph Striecks
 venue: NDSS 2019
 vurl: https://www.ndss-symposium.org/ndss2019/
-vatt: (accepted)
+pdf: http://eprint.iacr.org/2019/406.pdf
+web: http://eprint.iacr.org/2018/406
+pub: https://dx.doi.org/10.14722/ndss.2019.23066
 ---
 
 
