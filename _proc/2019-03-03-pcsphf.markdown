@@ -1,0 +1,11 @@
+---
+layout: post
+year: 2019
+title: "A Framework for UC-Secure Commitments from Publicly Computable Smooth Projective Hashing"
+authors: Behzad Abdolmaleki, Hamidreza Khoshakhlagh, Daniel Slamanig
+venue: IMACC 2019
+vurl: https://ima.org.uk/11167/17th-ima-international-conference-on-cryptography-and-coding/
+vatt: (accepted)
+---
+
+
