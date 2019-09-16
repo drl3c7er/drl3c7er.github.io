@@ -7,5 +7,7 @@ venue: AFRICACRYPT 2018
 vurl: https://africacrypt2018.aui.ma/
 pub: https://doi.org/10.1007/978-3-319-89339-6_2
 bib: http://dblp.uni-trier.de/rec/bibtex/conf/africacrypt/KrennPSS18
+pdf: http://eprint.iacr.org/2018/971.pdf
+web: http://eprint.iacr.org/2018/971
 ---
 
