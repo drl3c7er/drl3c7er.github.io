@@ -3,7 +3,7 @@ layout: post
 year: 2011
 title: "Anonymous Authentication from Public-Key Encryption Revisited (Extended Abstract)"
 authors: Daniel Slamanig
-venue: CMS 2011
+venue: "12th IFIP TC 6/TC 11 International Conference on Communications and Multimedia Security - CMS 2011"
 vurl: https://www.msec.be/cms2011/
 pub: http://dx.doi.org/10.1007/978-3-642-24712-5_26
 bib: http://dblp.uni-trier.de/rec/bib/conf/cms/Slamanig11

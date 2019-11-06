@@ -3,7 +3,7 @@ layout: post
 year: 2015
 title: Cloud Security and Privacy by Design
 authors: Thomas Lorünser, Thomas Länger, Daniel Slamanig
-venue:  e-Democracy 2015
+venue:  "6th International Conference on Citizen Rights in the World of the New Computing Paradigms - e-Democracy 2015"
 pub: http://dx.doi.org/10.1007/978-3-319-27164-4_16
 bib: http://dblp.uni-trier.de/rec/bib/conf/edemocracy/LorunserLS15
 

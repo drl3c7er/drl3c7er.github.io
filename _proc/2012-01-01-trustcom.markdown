@@ -3,7 +3,7 @@ layout: post
 year: 2012
 title: "A Framework for Privacy-Preserving Mobile Payment on Security Enhanced ARM TrustZone Platforms"
 authors: Martin Pirker, Daniel Slamanig
-venue: TrustCom 2012
+venue: "11th IEEE International Conference on Trust, Security and Privacy in Computing and Communications - IEEE TrustCom 2012"
 vurl: http://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=20816
 pub: http://dx.doi.org/10.1109/TrustCom.2012.28
 bib: http://dblp.uni-trier.de/rec/bib/conf/trustcom/PirkerS12

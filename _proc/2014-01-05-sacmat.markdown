@@ -3,7 +3,7 @@ layout: post
 year: 2014
 title: User-centric identity as a service-architecture for eIDs with selective attribute disclosure
 authors: Daniel Slamanig, Klaus Stranacher, Bernd Zwattendorfer
-venue: SACMAT 2014
+venue: "19th ACM Symposium on Access Control Models and Technologies - SACMAT 2014"
 vurl: http://www.sacmat.org/2017/index.php
 pub: http://doi.acm.org/10.1145/2613087.2613093
 bib: http://dblp.uni-trier.de/rec/bib/conf/sacmat/SlamanigSZ14

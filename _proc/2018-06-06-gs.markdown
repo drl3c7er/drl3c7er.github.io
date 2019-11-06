@@ -3,7 +3,7 @@ layout: post
 year: 2018
 title: Highly-Efficient Fully-Anonymous Dynamic Group Signatures
 authors: David Derler, Daniel Slamanig
-venue: ASIACCS 2018
+venue: "13th ACM ASIA Conference on Computer and Communications Security - ACM ASIACCS 2020"
 vurl: http://asiaccs2018.org/
 pub: https://doi.org/10.1145/3196494.3196507
 pdf: http://eprint.iacr.org/2016/154.pdf

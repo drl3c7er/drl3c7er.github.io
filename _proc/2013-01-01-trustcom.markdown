@@ -3,7 +3,7 @@ layout: post
 year: 2013
 title: "Scalable and Privacy-Preserving Variants of the Austrian Electronic Mandate System in the Public Cloud"
 authors: Bernd Zwattendorfer, Daniel Slamanig
-venue: TrustCom 2013
+venue: "12th IEEE International Conference on Trust, Security and Privacy in Computing and Communications - IEEE TrustCom 2013"
 vurl: http://nsclab.org/trustcom2013/
 pub: http://dx.doi.org/10.1109/TrustCom.2013.67
 bib: http://dblp.uni-trier.de/rec/bib/conf/trustcom/ZwattendorferS13

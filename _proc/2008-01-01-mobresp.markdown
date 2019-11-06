@@ -3,7 +3,7 @@ layout: post
 year: 2008
 title: "Anonymity and Application Privacy in Context of Mobile Computing in eHealth"
 authors: Daniel Slamanig, Christian Stingl, Christian Menard, Martina Heiligenbrunner, Jürgen Thierry
-venue: Mobile Response 2008
+venue: "Second International Workshop on Mobile Information Technology for Emergency Response - Mobile Response 2008"
 pub: http://dx.doi.org/10.1007/978-3-642-00440-7_15
 bib: http://dblp.uni-trier.de/rec/bib/conf/mobileresponse/SlamanigSMHT08
 

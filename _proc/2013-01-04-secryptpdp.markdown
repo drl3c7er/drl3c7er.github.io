@@ -3,7 +3,7 @@ layout: post
 year: 2013
 title: "Efficient Simultaneous Privately and Publicly Verifiable Robust Provable Data Possession from Elliptic Curves"
 authors: Christian Hanser, Daniel Slamanig
-venue: SECRYPT 2013
+venue: "10th International Conference on Security and Cryptography - SECRYPT 2013"
 vurl: http://www.secrypt.icete.org/?y=2013
 web: http://eprint.iacr.org/2013/392
 pdf: http://eprint.iacr.org/2013/392.pdf

@@ -3,7 +3,7 @@ layout: post
 year: 2013
 title: "On Privacy-Preserving Ways to Porting the Austrian eID System to the Public Cloud"
 authors: Bernd Zwattendorfer, Daniel Slamanig
-venue: SEC 2013
+venue: "28th IFIP TC 11 International Conference on Security and Privacy Protection in Information Processing Systems - IFIP SEC 2013"
 vurl: https://www.ifipsec.org
 pub: http://dx.doi.org/10.1007/978-3-642-39218-4_23
 bib: http://dblp.uni-trier.de/rec/bib/conf/sec/ZwattendorferS13

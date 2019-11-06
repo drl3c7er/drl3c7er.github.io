@@ -3,7 +3,7 @@ layout: post
 year: 2012
 title: "Dynamic Accumulator Based Discretionary Access Control for Outsourced Storage with Unlinkable Access"
 authors: Daniel Slamanig
-venue: FC 2012
+venue: "16th International Conference on Financial Cryptography and Data Security - FC 2012"
 vurl: http://fc12.ifca.ai
 pub: http://dx.doi.org/10.1007/978-3-642-32946-3_16
 bib: http://dblp.uni-trier.de/rec/bib/conf/fc/Slamanig12

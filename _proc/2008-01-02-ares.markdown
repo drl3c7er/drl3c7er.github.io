@@ -3,7 +3,7 @@ layout: post
 year: 2008
 title: "Privacy Aspects of eHealth"
 authors: Daniel Slamanig, Christian Stingl
-venue: ARES 2008
+venue: "Third International Conference on Availability, Reliability and Security - ARES 2008"
 vurl: http://www.ares-conference.eu/ares2008/www.ares-conference.eu/conf/
 pub: http://dx.doi.org/10.1109/ARES.2008.115
 bib: http://dblp.uni-trier.de/rec/bib/conf/IEEEares/SlamanigS08

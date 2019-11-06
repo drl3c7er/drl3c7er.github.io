@@ -3,7 +3,7 @@ layout: post
 year: 2018
 title: Protean Signature Schemes
 authors: Stephan Krenn, Henrich C. Pöhls, Kai Samelin, Daniel Slamanig
-venue: CANS 2018
+venue: "17th International Conference on Cryptology and Network Security - CANS 2018"
 vurl: http://cans2018.na.icar.cnr.it/
 pdf: http://eprint.iacr.org/2018/970.pdf
 web: http://eprint.iacr.org/2018/970

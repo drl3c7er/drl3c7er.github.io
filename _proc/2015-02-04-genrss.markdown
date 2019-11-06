@@ -3,7 +3,7 @@ layout: post
 year: 2015
 title: A General Framework for Redactable Signatures and New Constructions
 authors: David Derler, Henrich Pöhls, Kai Samelin, Daniel Slamanig
-venue: ICISC 2015
+venue: "18th International Conference on Information Security and Cryptology - ICISC 2015"
 vurl: http://www.icisc.org/icisc15/asp/cfp.html
 pdf: http://eprint.iacr.org/2015/1059.pdf
 pub: http://dx.doi.org/10.1007/978-3-319-30840-1_1

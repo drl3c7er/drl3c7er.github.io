@@ -3,7 +3,7 @@ layout: post
 year: 2013
 title: "Warrant-Hiding Delegation-by-Certificate Proxy Signature Schemes"
 authors: Christian Hanser, Daniel Slamanig
-venue: INDOCRYPT 2013
+venue: "14th International Conference on Cryptology in India - INDOCRYPT 2013"
 vurl: http://indocrypt.org
 web: http://eprint.iacr.org/2013/544
 pdf: http://eprint.iacr.org/2013/544.pdf

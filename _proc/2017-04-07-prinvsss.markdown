@@ -3,7 +3,7 @@ layout: post
 year: 2017
 title: Practical Strongly Invisible and Strongly Accountable Sanitizable Signatures
 authors: Michael Till Beck, Jan Camenisch, David Derler, Stephan Krenn, Henrich C. Pöhls, Kai Samelin, Daniel Slamanig
-venue: ACISP 2017
+venue: "22nd Australasian Conference on Information Security and Privacy - ACISP 2017"
 vurl: http://acisp.massey.ac.nz/
 web: http://eprint.iacr.org/2017/445
 pdf: http://eprint.iacr.org/2017/445.pdf

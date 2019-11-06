@@ -3,7 +3,7 @@ layout: post
 year: 2016
 title:  "PRISMACLOUD Tools: A Cryptographic Toolbox for Increasing Security in Cloud Services"
 authors: Thomas Lorünser, Daniel Slamanig, Thomas Länger, Henrich C. Pöhls
-venue: ARES 2016
+venue: "11th International Conference on Availability, Reliability and Security - ARES 2016"
 vurl: https://www.ares-conference.eu/conference/
 pub: http://dx.doi.org/10.1109/ARES.2016.62
 bib: http://dblp.uni-trier.de/rec/bib/conf/IEEEares/LorunserSLP16

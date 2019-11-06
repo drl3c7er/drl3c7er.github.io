@@ -3,7 +3,7 @@ layout: post
 year: 2012
 title: "Practical Privacy Preserving Cloud Resource-Payment for Constrained Clients"
 authors: Martin Pirker, Daniel Slamanig, Johannes Winter
-venue: PETS 2012
+venue: "12th International Symposium on Privacy Enhancing Technologies - PETS 2012"
 vurl: https://petsymposium.org/2012/
 pub: http://dx.doi.org/10.1007/978-3-642-31680-7_11
 bib: http://dblp.uni-trier.de/rec/bib/conf/pet/PirkerSW12
