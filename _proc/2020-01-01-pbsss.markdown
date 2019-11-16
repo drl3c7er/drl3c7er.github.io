@@ -1,6 +1,6 @@
 ---
 layout: post
-year: 2019
+year: 2020
 title: "Policy-Based Sanitizable Signatures"
 authors: Kai Samelin, Daniel Slamanig
 venue: "The Cryptographers' Track at the RSA Conference 2020 - CT-RSA 2020"
