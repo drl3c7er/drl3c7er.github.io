@@ -3,7 +3,8 @@ layout: post
 year: 2019
 title: "Policy-Based Sanitizable Signatures"
 authors: Kai Samelin, Daniel Slamanig
-venue: IACR Cryptology ePrint Archive Report 2019/410
+venue: "The Cryptographers' Track at the RSA Conference 2020 - CT-RSA 2020"
+vurl: https://sites.google.com/view/ctrsa2020/home
 pdf: http://eprint.iacr.org/2019/410.pdf
 web: http://eprint.iacr.org/2019/410
 bib: https://dblp.org/rec/bibtex/journals/iacr/SamelinS19
