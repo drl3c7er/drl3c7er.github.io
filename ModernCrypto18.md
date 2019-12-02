@@ -4,6 +4,8 @@ layout: plain
 
 <h3>192.062 Introduction to Modern Cryptography</h3>
 
+<b>This is the page for the Fall 2018 course, the page for the Fall 2019 course is <a href="https://danielslamanig.info/ModernCrypto19">here</a><b>
+
 
 <p style="text-align:justify;">Lecturers <a href="http://pub.ist.ac.at/crypto/" target="_blank">Krzysztof Pietrzak</a> (pietrzak@ist.ac.at) and <a href="https://danielslamanig.info" target="_blank">Daniel Slamanig</a> (Daniel.Slamanig@ait.ac.at). 
 </p>
