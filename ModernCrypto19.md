@@ -21,3 +21,4 @@ The exams will be in the slots for the tutorial: the midterm exam is Thursday, D
 
 <p style="text-align:justify;">Lecture material for the second part of the course can be found below.</p>
 
+<a href="https://danielslamanig.info/lectures/MC19_Lecture9.pdf">Slides for Lecture 9, Public Key Revolution I/II, Dec. 3rd</a> <br>
