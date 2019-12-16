@@ -5,7 +5,7 @@ title:  "Privacy and Identity Management. Fairness, Accountability, and Transpar
 authors: "Eleni Kosta, Jo Pierson, Daniel Slamanig, Simone Fischer-Hübner, Stephan Krenn"
 venue: IFIP Advances in Information and Communication Technology, Springer, 2019 
 bib: https://dblp.org/rec/bibtex/conf/primelife/2018
-doi: https://doi.org/10.1007/978-3-030-16744-8
+pub: https://doi.org/10.1007/978-3-030-16744-8
 
 
 ---
