@@ -8,7 +8,8 @@ vatt: (accepted)
 vurl: https://sites.google.com/view/ctrsa2020/home
 pdf: http://eprint.iacr.org/2019/410.pdf
 web: http://eprint.iacr.org/2019/410
-bib: https://dblp.org/rec/bibtex/journals/iacr/SamelinS19
+pub: https://doi.org/10.1007/978-3-030-40186-3_23
+bib: https://dblp.org/rec/bibtex/conf/ctrsa/SamelinS20
 ---
 
 
