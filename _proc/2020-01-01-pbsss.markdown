@@ -10,6 +10,7 @@ pdf: http://eprint.iacr.org/2019/410.pdf
 web: http://eprint.iacr.org/2019/410
 pub: https://doi.org/10.1007/978-3-030-40186-3_23
 bib: https://dblp.org/rec/bibtex/conf/ctrsa/SamelinS20
+talk: publications/talks/ct-rsa20-pb-sss.pdf
 ---
 
 
