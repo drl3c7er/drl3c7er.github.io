@@ -1,0 +1,8 @@
+---
+layout: post
+year: 2020
+title:  "Mathematical Aspects of Computer and Information Sciences - 8th International Conference, MACIS 2019, Gebze, Turkey, November 13-15, 2019, Revised Selected Papers"
+authors: "Daniel Slamanig, Elias Tsigaridas, Zafeirakis Zafeirakopoulos"
+venue: Lecture Notes in Computer Science, Springer, 2020 
+
+---
