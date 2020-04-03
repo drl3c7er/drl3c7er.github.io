@@ -6,6 +6,8 @@ authors: Jan Bobolz, Fabian Eidens, Stephan Krenn, Daniel Slamanig, Christoph St
 venue: "15th ACM ASIA Conference on Computer and Communications Security - ACM ASIACCS 2020"
 vatt: (accepted)
 vurl: https://asiaccs2020.cs.nthu.edu.tw/
+pdf: http://eprint.iacr.org/2020/382.pdf
+web: http://eprint.iacr.org/2020/382
 
 ---
 
