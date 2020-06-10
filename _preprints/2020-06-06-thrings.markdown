@@ -1,0 +1,15 @@
+---
+layout: post
+year: 2020
+title: "Logarithmic-Size (Linkable) Threshold Ring Signatures in the Plain Model"
+authors: Abida Haque, Stephan Krenn, Daniel Slamanig, Christoph Striecks
+venue: IACR Cryptology ePrint Archive Report 2020/683
+pdf: http://eprint.iacr.org/2020/683.pdf
+web: http://eprint.iacr.org/2020/683
+
+---
+
+
+---
+
+
