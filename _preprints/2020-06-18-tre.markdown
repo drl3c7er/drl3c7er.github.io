@@ -1,0 +1,15 @@
+---
+layout: post
+year: 2020
+title: "Generic Constructions of Incremental and Homomorphic Timed-Release Encryption"
+authors: Peter Chvojka, Tibor Jager, Daniel Slamanig, Christoph Striecks
+venue: IACR Cryptology ePrint Archive Report 2020/739
+pdf: http://eprint.iacr.org/2020/739.pdf
+web: http://eprint.iacr.org/2020/739
+
+---
+
+
+---
+
+
