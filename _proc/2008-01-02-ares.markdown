@@ -7,6 +7,7 @@ venue: "Third International Conference on Availability, Reliability and Security
 vurl: http://www.ares-conference.eu/ares2008/www.ares-conference.eu/conf/
 pub: http://dx.doi.org/10.1109/ARES.2008.115
 bib: http://dblp.uni-trier.de/rec/bib/conf/IEEEares/SlamanigS08
+vatt: (Invited to Int. J. Business Intelligence and Data Mining)
 
 ---
 
