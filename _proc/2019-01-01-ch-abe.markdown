@@ -10,7 +10,7 @@ web: http://eprint.iacr.org/2019/406
 pub: https://dx.doi.org/10.14722/ndss.2019.23066
 bib: https://dblp.org/rec/bibtex/conf/ndss/DerlerSSS19
 talk: publications/talks/AFT19_slamanig.pdf
-vatt: (Invited to highlights track at Advances in Financial Technologies (AFT 2019))
+vatt: (Invited to highlights track at Advances in Financial Technologies - AFT 2019)
 ---
 
 
