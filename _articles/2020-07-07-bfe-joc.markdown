@@ -7,7 +7,6 @@ venue: "Journal of Cryptology"
 vurl: https://www.iacr.org/jofc/
 pdf: http://eprint.iacr.org/2018/199.pdf
 web: http://eprint.iacr.org/2018/199
-pub: https://doi.org/10.1007/978-3-319-78372-7_14
 bib: http://dblp.uni-trier.de/rec/bibtex/conf/eurocrypt/DerlerJSS18
 vatt: (accepted)
 ---
