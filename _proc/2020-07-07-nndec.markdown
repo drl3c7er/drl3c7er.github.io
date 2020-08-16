@@ -1,0 +1,15 @@
+---
+layout: post
+year: 2020
+title: "CCA Secure (Puncturable) KEMs from Encryption With Non-Negligible Decryption Errors"
+authors: Valerio Cini, Sebastian Ramacher, Daniel Slamanig, Christoph Striecks
+venue: "26th Annual International Conference on the Theory and Application of Cryptology and Information Security - ASIACRYPT 2020"
+vatt: (accepted)
+vurl: https://asiacrypt.iacr.org/2020/
+
+---
+
+
+---
+
+
