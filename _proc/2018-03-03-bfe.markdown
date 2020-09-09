@@ -7,6 +7,7 @@ venue: "37th Annual International Conference on the Theory and Applications of C
 vurl: https://eurocrypt.iacr.org/2018/
 pdf: http://eprint.iacr.org/2018/199.pdf
 web: http://eprint.iacr.org/2018/199
+talk: https://youtu.be/JhoeGnHKY2c
 pub: https://doi.org/10.1007/978-3-319-78372-7_14
 bib: http://dblp.uni-trier.de/rec/bibtex/conf/eurocrypt/DerlerJSS18
 ---
