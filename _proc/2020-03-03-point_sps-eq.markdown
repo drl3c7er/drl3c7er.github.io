@@ -9,6 +9,7 @@ pdf: http://eprint.iacr.org/2020/382.pdf
 web: http://eprint.iacr.org/2020/382
 pub: https://doi.org/10.1145/3320269.3384769
 bib: https://dblp.org/rec/bibtex/conf/ccs/BobolzEKSS20
+talk: https://dl.acm.org/doi/10.1145/3320269.3384769#sec-supp
 
 ---
 
