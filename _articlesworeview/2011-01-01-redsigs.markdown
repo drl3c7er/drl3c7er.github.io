@@ -2,7 +2,7 @@
 layout: post
 year: 2011
 title: "Redigierbare Digitale Signaturen - Theorie und Praxis"
-authors: Daniel Slamanig, Stefan Rass
+authors: <code>&ast;</code>Daniel Slamanig, Stefan Rass
 venue: Datenschutz und Datensicherheit
 vatt: "35(11), 2011"
 pub: http://dx.doi.org/10.1007/s11623-011-0181-0

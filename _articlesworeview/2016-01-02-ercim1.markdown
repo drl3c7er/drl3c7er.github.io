@@ -2,7 +2,7 @@
 layout: post
 year: 2016
 title: "PRISMACLOUD - Privacy and Security Maintaining Services in the Cloud"
-authors: Daniel Slamanig, Agi Karyda, Thomas Lorünser
+authors: <code>&ast;</code>Daniel Slamanig, Agi Karyda, Thomas Lorünser
 venue: ERCIM News
 vatt: 104, 2016
 pub: http://ercim-news.ercim.eu/en104/r-i/prismacloud-privacy-and-security-maintaining-services-in-the-cloud
