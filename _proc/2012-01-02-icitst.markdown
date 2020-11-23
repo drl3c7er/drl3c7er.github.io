@@ -2,7 +2,7 @@
 layout: post
 year: 2012
 title: "On cloud storage and the cloud of clouds approach"
-authors: Daniel Slamanig, Christian Hanser
+authors: <code>&ast;</code>Daniel Slamanig, Christian Hanser
 venue: "7th International Conference for Internet Technology and Secured Transactions - ICITST 2012"
 vurl: http://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=20726
 pub: http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=6470897

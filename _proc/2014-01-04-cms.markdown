@@ -2,7 +2,7 @@
 layout: post
 year: 2014
 title: A Federated Cloud Identity Broker-Model for Enhanced Privacy via Proxy Re-Encryption
-authors: Bernd Zwattendorfer, Daniel Slamanig, Klaus Stranacher, Felix Hörandner
+authors: <code>&ast;</code>Bernd Zwattendorfer, Daniel Slamanig, Klaus Stranacher, Felix Hörandner
 venue: "15th IFIP TC 6/TC 11 International Conference on Communications and Multimedia Security - CMS 2014"
 vurl: http://cms2014.web.ua.pt
 pub: http://dx.doi.org/10.1007/978-3-662-44885-4_8

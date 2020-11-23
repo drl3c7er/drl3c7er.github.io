@@ -2,7 +2,7 @@
 layout: post
 year: 2009
 title: "Practical Traceable Anonymous Identification"
-authors: Daniel Slamanig, Peter Schartner, Christian Stingl
+authors: <code>&ast;</code>Daniel Slamanig, Peter Schartner, Christian Stingl
 venue: "5th International Conference on Security and Cryptography - SECRYPT 2009"
 vurl: http://www.secrypt.icete.org/SECRYPT2009/
 pub: http://dx.doi.org/10.5220/0002217502250232

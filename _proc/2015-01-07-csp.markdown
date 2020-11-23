@@ -2,7 +2,7 @@
 layout: post
 year: 2015
 title: Towards a New Paradigm for Privacy and Security in Cloud Services
-authors: Thomas Lorünser, Charles Bastos Rodriguez, Denise Demirel, Simone Fischer-Hübner, Thomas Groß, Thomas Länger, Mathieu Des Noes, Henrich Christopher Pöhls, Boris Rozenberg, Daniel Slamanig
+authors: <code>&ast;</code>Thomas Lorünser, Charles Bastos Rodriguez, Denise Demirel, Simone Fischer-Hübner, Thomas Groß, Thomas Länger, Mathieu Des Noes, Henrich Christopher Pöhls, Boris Rozenberg, Daniel Slamanig
 venue: "4th Cyber Security and Privacy Innovation Forum - CSP Forum 2015"
 vurl: http://www.cspforum.eu/2015
 pdf: https://arxiv.org/pdf/1506.05980v2

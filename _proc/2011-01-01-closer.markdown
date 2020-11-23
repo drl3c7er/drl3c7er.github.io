@@ -2,7 +2,7 @@
 layout: post
 year: 2011
 title: "On Security and Privacy in Cloud Computing"
-authors: Daniel Slamanig, Stefan Rass
+authors: <code>&ast;</code>Daniel Slamanig, Stefan Rass
 venue: "1st International Conference on Cloud Computing and Services Science - CLOSER 2011"
 vurl: http://closer.scitevents.org/CLOSER2011/
 pub: http://dx.doi.org/10.5220/0003382106040609
