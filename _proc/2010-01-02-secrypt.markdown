@@ -1,12 +1,13 @@
 ---
 layout: post
 year: 2010
-title: "Anonymous but Authorized Transactions Supporting Selective Traceability (Best student paper award)"
+title: "Anonymous but Authorized Transactions Supporting Selective Traceability"
 authors: Daniel Slamanig, Stefan Rass
 venue: "6th International Conference on Security and Cryptography - SECRYPT 2010"
 vurl: http://www.secrypt.icete.org/SECRYPT2010/
 pub:  http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5741686&isnumber=5741585
 bib: http://dblp.uni-trier.de/rec/bib/conf/secrypt/SlamanigR10
+vatt: (Best student paper award)
 
 ---
 
