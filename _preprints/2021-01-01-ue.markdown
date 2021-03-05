@@ -1,0 +1,15 @@
+---
+layout: post
+year: 2021
+title: "Puncture 'Em All: Stronger Updatable Encryption with No-Directional Key Updates"
+authors: Daniel Slamanig, Christoph Striecks
+venue: IACR Cryptology ePrint Archive Report 2021/268
+pdf: https://eprint.iacr.org/2021/268.pdf
+web: https://eprint.iacr.org/2021/268
+
+---
+
+
+---
+
+
