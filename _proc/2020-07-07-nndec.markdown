@@ -8,7 +8,7 @@ vurl: https://asiacrypt.iacr.org/2020/
 pdf: http://eprint.iacr.org/2020/1548.pdf
 web: http://eprint.iacr.org/2020/1548
 pub: https://doi.org/10.1007/978-3-030-64837-4_6
-bib: https://dblp.org/rec/bibtex/conf/asiacrypt/CiniRSS20
+bib: https://dblp.org/rec/bibtex/conf/asiacrypt/CiniRSS20.html?view=bibtex
 talk: https://youtube.com/watch?v=UoqhyFyLnn4
 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 year: 2020
-title: "Generic Constructions of Incremental and Homomorphic Timed-Release Encryption"
+title: "Versatile and Sustainable Timed-Release Encryption and Sequential Time-Lock Puzzles"
 authors: Peter Chvojka, Tibor Jager, Daniel Slamanig, Christoph Striecks
 venue: IACR Cryptology ePrint Archive Report 2020/739
 pdf: http://eprint.iacr.org/2020/739.pdf

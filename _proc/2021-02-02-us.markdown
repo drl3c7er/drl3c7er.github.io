@@ -5,9 +5,11 @@ title: "Updatable Signatures and Message Authentication Codes"
 authors: Valerio Cini, Sebastian Ramacher, Daniel Slamanig, Christoph Striecks, Erkan Tairi
 venue: "24th International Conference on Practice and Theory of Public-Key Cryptography - PKC 2021"
 vurl: https://pkc.iacr.org/2021/
-vatt: (accepted)
 pdf: https://eprint.iacr.org/2021/365.pdf
 web: https://eprint.iacr.org/2021/365
+pub: https://doi.org/10.1007/978-3-030-75245-3_25
+bib: https://dblp.org/rec/conf/pkc/CiniRSST21.html?view=bibtex
+talk: https://www.youtube.com/watch?v=RqAlXixDZ1M	
 
 ---
 
