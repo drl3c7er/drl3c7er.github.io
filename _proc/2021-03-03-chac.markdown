@@ -7,7 +7,7 @@ venue: "28th ACM Conference on Computer and Communications Security - ACM CCS 20
 vurl: https://www.sigsac.org/ccs/CCS2021/
 pdf: https://eprint.iacr.org/2021/1419.pdf
 web: https://eprint.iacr.org/2021/1419
-vatt: (accepted)
+pub: https://doi.org/10.1145/3460120.3484582
 
 ---
 
