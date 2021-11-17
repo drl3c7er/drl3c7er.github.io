@@ -8,6 +8,7 @@ vurl: https://www.sigsac.org/ccs/CCS2021/
 pdf: https://eprint.iacr.org/2021/1419.pdf
 web: https://eprint.iacr.org/2021/1419
 pub: https://doi.org/10.1145/3460120.3484582
+bib: https://dblp.org/rec/conf/ccs/HanzlikS21.html?view=bibtex
 
 ---
 

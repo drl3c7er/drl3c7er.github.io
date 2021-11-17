@@ -8,6 +8,7 @@ vurl: https://data61dsslab.github.io/acisp2021/
 pdf: https://eprint.iacr.org/2021/1360.pdf
 web: https://eprint.iacr.org/2021/1360
 pub: https://doi.org/10.1007/978-3-030-90567-5_3
+bib: https://dblp.org/rec/conf/acisp/AbdolmalekiS21.html?view=bibtex
 
 ---
 
