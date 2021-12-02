@@ -10,7 +10,7 @@ web: http://eprint.iacr.org/2020/403
 talk: https://youtube.com/watch?v=wJXyWa5Pj-U
 pub: https://doi.org/10.1007/978-3-030-45374-9_16
 bib: https://dblp.org/rec/bibtex/conf/pkc/DerlerSS20
-vatt: (Invited to Journal of Cryptology)
+award: Invited to Journal of Cryptology
 ---
 
 

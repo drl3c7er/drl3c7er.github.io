@@ -7,7 +7,7 @@ venue: "28th IFIP TC 11 International Conference on Security and Privacy Protect
 vurl: https://www.ifipsec.org
 pub: http://dx.doi.org/10.1007/978-3-642-39218-4_23
 bib: http://dblp.uni-trier.de/rec/bib/conf/sec/ZwattendorferS13
-vatt: (Invited to Computers & Security)
+award: Invited to Computers & Security
 
 ---
 
