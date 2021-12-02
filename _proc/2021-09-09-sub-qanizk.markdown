@@ -8,6 +8,7 @@ vurl: https://cans2021.at/
 vatt: (accepted)
 pdf: http://eprint.iacr.org/2020/364.pdf
 web: http://eprint.iacr.org/2020/364
+award: Best Paper Award
 
 ---
 
