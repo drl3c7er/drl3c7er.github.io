@@ -10,6 +10,7 @@ web: http://eprint.iacr.org/2020/364
 pub: https://doi.org/10.1007/978-3-030-92548-2_26
 bib: https://dblp.org/rec/conf/cans/AbdolmalekiS21.html?view=bibtex
 award: Best Paper Award
+talk: https://youtu.be/KoTmfK7zJVU
 
 ---
 
