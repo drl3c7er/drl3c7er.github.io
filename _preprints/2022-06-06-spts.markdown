@@ -1,8 +1,8 @@
 ---
 layout: post
 year: 2022
-title: "Structure-Preserving Threshold Signatures"
-authors: <code>&ast;</code>Mahdi Sedaghat, Daniel Slamanig, Markulf Kohlweiss, Bart Preneel
+title: "Threshold Structure-Preserving Signatures"
+authors: Elizabeth Crites, Markulf Kohlweiss, Bart Preneel, Mahdi Sedaghat, Daniel Slamanig
 venue: IACR Cryptology ePrint Archive Report 2022/839
 pdf: https://eprint.iacr.org/2022/839.pdf
 web: https://eprint.iacr.org/2022/839
