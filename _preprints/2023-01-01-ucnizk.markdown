@@ -6,7 +6,7 @@ authors: Behzad Abdolmaleki, Noemi Glaeser, Sebastian Ramacher, Daniel Slamanig
 venue: IACR Cryptology ePrint Archive Report 2023/097
 pdf: https://eprint.iacr.org/2023/097.pdf
 web: https://eprint.iacr.org/2023/097
-
+github: https://github.com/nglaeser/sonic-ucse/
 ---
 
 
