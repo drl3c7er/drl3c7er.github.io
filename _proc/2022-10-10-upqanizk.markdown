@@ -7,7 +7,9 @@ venue: "23rd International Conference on Cryptology in India - INDOCRYPT 2022"
 vurl: https://www.tcgcrest.org/indocrypt-2022/
 pdf: http://eprint.iacr.org/2022/1756.pdf
 web: http://eprint.iacr.org/2022/1756
-vatt: (accepted)
+pub: https://doi.org/10.1007/978-3-031-22912-1_1
+bib: https://dblp.org/rec/conf/indocrypt/AbdolmalekiS22.html?view=bibtex
+talk: publications/talks/Indocrypt22.pdf
 ---
 
 
