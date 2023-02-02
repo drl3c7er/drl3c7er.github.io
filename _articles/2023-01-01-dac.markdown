@@ -1,11 +1,12 @@
 ---
 layout: post
-year: 2022
+year: 2023
 title: "Practical Delegatable Anonymous Credentials From Equivalence Class Signatures"
 authors: <code>&ast;</code>Omid Mir, Daniel Slamanig, Balthazar Bauer, René Mayrhofer
-venue: IACR Cryptology ePrint Archive Report 2022/680
+venue: "Proceedings on Privacy Enhancing Technologies (PoPETs)"
 pdf: https://eprint.iacr.org/2022/680.pdf
 web: https://eprint.iacr.org/2022/680
+vatt: (accepted)
 
 ---
 
