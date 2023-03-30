@@ -8,7 +8,7 @@ vurl: http://des.cse.nsysu.edu.tw/asiacrypt2014/
 pdf: http://eprint.iacr.org/2014/944.pdf
 pub: http://dx.doi.org/10.1007/978-3-662-45611-8_26
 web: http://eprint.iacr.org/2014/944
-award: "Warning: The presented signature scheme is not EUF-CMA secure. Please read the Journal of Cryptology paper from 2019 instead!"
+award: "Warning: The presented signature scheme is not EUF-CMA secure. Please read the linked Journal of Cryptology paper from 2019 instead!"
 bib: http://dblp.uni-trier.de/rec/bib/conf/asiacrypt/HanserS14
 
 ---
