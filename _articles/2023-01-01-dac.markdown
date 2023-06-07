@@ -8,8 +8,7 @@ vurl: https://petsymposium.org/
 pdf: https://eprint.iacr.org/2022/680.pdf
 web: https://eprint.iacr.org/2022/680
 github: https://github.com/mir-omid/DAC-from-EQS
-vatt: (accepted)
-
+pub: https://doi.org/10.56553/popets-2023-0093
 ---
 
 
