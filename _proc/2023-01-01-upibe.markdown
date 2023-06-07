@@ -7,8 +7,9 @@ venue: "42nd Annual International Conference on the Theory and Applications of C
 vurl: https://eurocrypt.iacr.org/2023/
 pdf: http://eprint.iacr.org/2023/248.pdf
 web: http://eprint.iacr.org/2023/248
-
-vatt: (accepted)
+talk: https://youtu.be/M4UKU0rLFSw
+pub: https://doi.org/10.1007/978-3-031-30589-4_1
+bib: https://dblp.org/rec/conf/eurocrypt/RoslerSS23.html?view=bibtex
 ---
 
 
