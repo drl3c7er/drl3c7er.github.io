@@ -1,0 +1,14 @@
+---
+layout: post
+year: 2023
+title: "To Pass or Not to Pass: Privacy-Preserving Physical Access Control"
+authors: Jesús García-Rodríguez, Stephan Krenn, Daniel Slamanig
+venue: IACR Cryptology ePrint Archive Report 2023/934
+pdf: https://eprint.iacr.org/2023/934.pdf
+web: https://eprint.iacr.org/2023/934
+---
+
+
+---
+
+
