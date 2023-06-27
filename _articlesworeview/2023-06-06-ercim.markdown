@@ -1,0 +1,10 @@
+---
+layout: post
+year: 2023
+title: "SD4MSD: Using a Single Device for Multiple Security Domains"
+authors: <code>&ast;</code>Florian Skopik, Arndt Bonitz, Daniel Slamanig, Markus Kirschner, Wolfgang Hacker
+venue: ERCIM News
+vatt: 134, 2023
+pub: https://ercim-news.ercim.eu/en134/r-i/sd4msd-using-a-single-device-for-multiple-security-domains
+bib: https://dblp.org/rec/journals/ercim/SkopikBSKH23.html?view=bibtex
+---
