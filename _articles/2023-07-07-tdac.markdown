@@ -1,0 +1,14 @@
+---
+layout: post
+year: 2023
+title: "Threshold Delegatable Anonymous Credentials with Controlled and Fine-Grained Delegation"
+authors: <code>&ast;</code>Omid Mir, Daniel Slamanig, René Mayrhofer
+venue: "IEEE Transactions on Dependable and Secure Computing"
+vurl: https://www.computer.org/csdl/journal/tq
+vatt: (accepted)
+---
+
+
+---
+
+
