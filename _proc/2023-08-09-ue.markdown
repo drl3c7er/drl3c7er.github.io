@@ -1,0 +1,17 @@
+---
+layout: post
+year: 2023
+title: "Revisiting Updatable Encryption: Controlled Forward Security, Constructions and a Puncturable Perspective"
+authors: Daniel Slamanig, Christoph Striecks
+venue: "21st Theory of Cryptography Conference - TCC 2023"
+vurl: https://tcc.iacr.org/2023/
+pdf: https://eprint.iacr.org/2021/268.pdf
+web: https://eprint.iacr.org/2021/268
+vatt: (accepted)
+
+---
+
+
+---
+
+

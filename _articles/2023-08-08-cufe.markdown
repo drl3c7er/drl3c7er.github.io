@@ -1,11 +1,13 @@
 ---
 layout: post
-year: 2022
+year: 2023
 title: "(Inner-Product) Functional Encryption with Updatable Ciphertexts"
 authors: Valerio Cini, Sebastian Ramacher, Daniel Slamanig, Christoph Striecks, Erkan Tairi
-venue: IACR Cryptology ePrint Archive Report 2022/1284
+venue: "Journal of Cryptology"
+vurl: https://www.iacr.org/jofc/
 pdf: https://eprint.iacr.org/2022/1284.pdf
 web: https://eprint.iacr.org/2022/1284
+vatt: (accepted)
 
 ---
 
