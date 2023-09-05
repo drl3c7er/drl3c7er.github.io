@@ -5,7 +5,8 @@ title: "RiBAC: Strengthening Access Control Systems for Pandemic Risk Reduction 
 authors: Stephan Krenn, Jan Orlicky, Daniel Slamanig, Tomáš Trpišovský
 venue: "18th International Conference on Availability, Reliability and Security - ARES 2023"
 vurl: https://www.ares-conference.eu/
-vatt: (accepted)
+pub: https://doi.org/10.1145/3600160.3605039
+bib: https://dblp.org/rec/conf/IEEEares/KrennOST23.html?view=bibtex
 ---
 
 
