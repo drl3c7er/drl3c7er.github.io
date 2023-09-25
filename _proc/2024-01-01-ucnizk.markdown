@@ -1,12 +1,14 @@
 ---
 layout: post
-year: 2023
-title: "Universally Composable NIZKs: Circuit-Succinct, Non-Malleable and CRS-Updatable"
+year: 2024
+title: "Circuit-Succinct Universally Composable NIZKs with Updatable CRS"
 authors: Behzad Abdolmaleki, Noemi Glaeser, Sebastian Ramacher, Daniel Slamanig
-venue: IACR Cryptology ePrint Archive Report 2023/097
+venue: 37th IEEE Computer Security Foundations Symposium - CSF 2024
+vurl: https://csf2024.ieee-security.org
 pdf: https://eprint.iacr.org/2023/097.pdf
 web: https://eprint.iacr.org/2023/097
 github: https://github.com/nglaeser/sonic-ucse/
+vatt: (accepted)
 ---
 
 
