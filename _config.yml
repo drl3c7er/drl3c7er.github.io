@@ -1,16 +1,16 @@
 # Site metadata
-keywords: Cryptography, Privacy, Digital Signatures, Security, AIT Austrian Institute of Technology, Vienna, Austria, Research
-description: Daniel Slamanig, AIT Austrian Institute of Technology, Vienna, Austria
-title: Daniel Slamanig | AIT Austrian Institute of Technology
+keywords: Cryptography, Privacy, Digital Signatures, Post-Quantum Cryptography, Universität der Bundeswehr München, Research Institute CODE, Munich, Germany, Austria, Research, Professor
+description: Prof. Dr. Daniel Slamanig, Universität der Bundeswehr München, Munich, Germany
+title: Prof. Dr. Daniel Slamanig | Universität der Bundeswehr München | Research Institute CODE 
 
 author: Daniel Slamanig
 authorimg: images/ds.png
-authoroccup: Researcher in Cryptography
+authoroccup: Full Professor of Cryptology
 
 #inst: IAIK
 #insturl: http://www.iaik.tugraz.at
-uni: AIT Austrian Institute of Technology
-uniurl: https://www.ait.ac.at
+uni: Universität der Bundeswehr München 
+uniurl: https://www.unibw.de/home
 
 stackex: users/3352097/drlecter
 twitter: drl3c7er
