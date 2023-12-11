@@ -7,7 +7,8 @@ venue: "30th ACM Conference on Computer and Communications Security - ACM CCS 20
 vurl: https://www.sigsac.org/ccs/CCS2023/
 pdf: https://eprint.iacr.org/2023/1016.pdf
 web: https://eprint.iacr.org/2023/1016
-vatt: (accepted)
+pub: https://doi.org/10.1145/3576915.3623203
+bib: https://dblp.org/rec/conf/ccs/MirBGLS23.html?view=bibtex
 ---
 
 

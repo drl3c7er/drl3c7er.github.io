@@ -5,8 +5,8 @@ title: "Optimizing 0-RTT Key Exchange with Full Forward Security"
 authors: Christian Göth, Sebastian Ramacher, Daniel Slamanig, Christoph Striecks, Erkan Tairi, Alexander Zikulnig
 venue: "14th Cloud Computing Security Workshop - CCSW 2023"
 vurl: https://ccsw.io/
-vatt: (accepted)
-
+pub: https://doi.org/10.1145/3605763.3625246
+bib: https://dblp.org/rec/conf/ccsw-ws/GothRSSTZ23.html?view=bibtex
 ---
 
 

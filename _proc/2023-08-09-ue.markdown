@@ -7,7 +7,8 @@ venue: "21st Theory of Cryptography Conference - TCC 2023"
 vurl: https://tcc.iacr.org/2023/
 pdf: https://eprint.iacr.org/2021/268.pdf
 web: https://eprint.iacr.org/2021/268
-vatt: (accepted)
+pub: https://doi.org/10.1007/978-3-031-48618-0_8
+bib: https://dblp.org/rec/conf/tcc/SlamanigS23.html?view=bibtex
 
 ---
 
