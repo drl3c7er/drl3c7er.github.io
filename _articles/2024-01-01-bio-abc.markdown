@@ -1,0 +1,16 @@
+---
+layout: post
+year: 2024
+title: "To Pass or Not to Pass: Privacy-Preserving Physical Access Control"
+authors: Jesús García-Rodríguez, Stephan Krenn, Daniel Slamanig
+venue: "Computers & Security"
+vurl: https://www.journals.elsevier.com/computers-and-security
+pdf: https://eprint.iacr.org/2023/934.pdf
+web: https://eprint.iacr.org/2023/934
+pub: https://doi.org/10.1016/j.cose.2023.103566
+---
+
+
+---
+
+
