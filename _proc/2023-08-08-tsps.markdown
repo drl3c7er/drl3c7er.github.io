@@ -7,7 +7,7 @@ venue: " 29th Annual International Conference on the Theory and Application of C
 vurl: https://asiacrypt.iacr.org/2023/
 pdf: https://eprint.iacr.org/2022/839.pdf
 web: https://eprint.iacr.org/2022/839
-vatt: (accepted)
+pub: https://doi.org/10.1007/978-981-99-8724-5_11
 ---
 
 
