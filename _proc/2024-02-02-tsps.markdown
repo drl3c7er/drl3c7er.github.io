@@ -1,0 +1,14 @@
+---
+layout: post
+year: 2024
+title: "Threshold Structure-Preserving Signatures: Strong and Adaptive Security under Standard Assumptions"
+authors: Katerina Mitrokotsa, Sayantan Mukherjee, Mahdi Sedaghat, Daniel Slamanig, Jenit Tomy
+venue: 27th IACR International Conference on Practice and Theory of Public-Key Cryptography - PKC 2024
+vurl: https://pkc.iacr.org/2024/
+vatt: (accepted)
+---
+
+
+---
+
+
