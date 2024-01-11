@@ -1,6 +1,6 @@
 ---
 layout: post
-year: 2023
+year: 2024
 title: "SoK: Signatures With Randomizable Keys"
 authors: Sofía Celi, Scott Griffy, Lucjan Hanzlik, Octavio Perez Kempner, Daniel Slamanig
 venue: IACR Cryptology ePrint Archive Report 2023/1524
