@@ -3,7 +3,7 @@ layout: post
 year: 2023
 title: "Threshold Structure-Preserving Signatures"
 authors: Elizabeth Crites, Markulf Kohlweiss, Bart Preneel, Mahdi Sedaghat, Daniel Slamanig
-venue: " 29th Annual International Conference on the Theory and Application of Cryptology and Information Security - ASIACRYPT 2023"
+venue: "29th Annual International Conference on the Theory and Application of Cryptology and Information Security - ASIACRYPT 2023"
 vurl: https://asiacrypt.iacr.org/2023/
 pdf: https://eprint.iacr.org/2022/839.pdf
 web: https://eprint.iacr.org/2022/839
