@@ -1,0 +1,15 @@
+---
+layout: post
+year: 2024
+title: "Attribute-Based Threshold Issuance Anonymous Counting Tokens and Its Application to Sybil-Resistant Self-Sovereign Identity"
+authors: Reyhaneh Rabaninejad, Behzad Abdolmaleki, Sebastian Ramacher, Daniel Slamanig, and Antonis Michalas
+venue: IACR Cryptology ePrint Archive Report 2024/XXXX
+pdf: http://eprint.iacr.org/2024/XXXX.pdf
+web: http://eprint.iacr.org/2024/XXXX
+
+---
+
+
+---
+
+
