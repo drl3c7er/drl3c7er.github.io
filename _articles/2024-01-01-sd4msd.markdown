@@ -1,0 +1,14 @@
+---
+layout: post
+year: 2024
+title: "To Pass or Not to Pass: Privacy-Preserving Physical Access Control"
+authors: <code>&ast;</code>Florian Skopik, Arndt Bonitz, Daniel Slamanig, Markus Kirschner, Wolfgang Hacker
+venue: "Journal of Universal Computer Science"
+vurl: https://lib.jucs.org
+pub: https://doi.org/10.3897/jucs.112790
+---
+
+
+---
+
+
