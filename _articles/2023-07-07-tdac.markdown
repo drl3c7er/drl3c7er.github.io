@@ -5,7 +5,7 @@ title: "Threshold Delegatable Anonymous Credentials with Controlled and Fine-Gra
 authors: <code>&ast;</code>Omid Mir, Daniel Slamanig, René Mayrhofer
 venue: "IEEE Transactions on Dependable and Secure Computing"
 vurl: https://www.computer.org/csdl/journal/tq
-vatt: (accepted)
+pub: 10.1109/TDSC.2023.3303834
 ---
 
 
