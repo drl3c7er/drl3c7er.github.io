@@ -1,0 +1,15 @@
+---
+layout: post
+year: 2024
+title: "A Crack in the Firmament: Restoring Soundness of the Orion Proof System and More"
+authors: Thomas den Hollander, Daniel Slamanig
+venue: IACR Cryptology ePrint Archive Report 2024/1164
+pdf: http://eprint.iacr.org/2024/1164.pdf
+web: http://eprint.iacr.org/2024/1164
+
+---
+
+
+---
+
+
