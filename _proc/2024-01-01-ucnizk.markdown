@@ -8,7 +8,7 @@ vurl: https://csf2024.ieee-security.org
 pdf: https://eprint.iacr.org/2023/097.pdf
 web: https://eprint.iacr.org/2023/097
 github: https://github.com/nglaeser/sonic-ucse/
-vatt: (accepted)
+pub: https://doi.ieeecomputersociety.org/10.1109/CSF61375.2024.00006
 ---
 
 

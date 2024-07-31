@@ -1,0 +1,15 @@
+---
+layout: post
+year: 2024
+title: "Delegatable Anonymous Credentials From Mercurial Signatures With Stronger Privacy"
+authors: Scott Griffy, Anna Lysyanskaya, Omid Mir, Octavio Perez Kempner, Daniel Slamanig
+venue: IACR Cryptology ePrint Archive Report 2024/1216
+pdf: http://eprint.iacr.org/2024/1216.pdf
+web: http://eprint.iacr.org/2024/1216
+
+---
+
+
+---
+
+

@@ -7,7 +7,8 @@ venue: 27th IACR International Conference on Practice and Theory of Public-Key C
 vurl: https://pkc.iacr.org/2024/
 pdf: https://eprint.iacr.org/2024/445.pdf
 web: https://eprint.iacr.org/2024/445
-vatt: (accepted)
+pub: https://doi.org/10.1007/978-3-031-57718-5_6
+bib: https://dblp.org/rec/conf/pkc/MitrokotsaMSST24.html?view=bibtex
 ---
 
 
