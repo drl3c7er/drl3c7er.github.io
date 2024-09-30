@@ -1,0 +1,12 @@
+---
+layout: post
+year: 2024
+title: "Scalable Mixnets from Mercurial Signatures on Randomizable Ciphertexts"
+authors: Masayuki Abe, Masaya Nanri, Miyako Ohkubo, Octavio Perez Kempner, Daniel Slamanig, and Mehdi Tibouchi
+venue: IACR Cryptology ePrint Archive Report 2024/1503
+pdf: http://eprint.iacr.org/2024/1503.pdf
+web: http://eprint.iacr.org/2024/1503
+
+---
+
+
