@@ -1,0 +1,12 @@
+---
+layout: post
+year: 2024
+title: "More Efficient Isogeny Proofs of Knowledge via Canonical Modular Polynomials"
+authors: Thomas den Hollander, Sören Kleine, Marzio Mula, Daniel Slamanig, and Sebastian A. Spindler
+venue: IACR Cryptology ePrint Archive Report 2024/1738
+pdf: http://eprint.iacr.org/2024/1738.pdf
+web: http://eprint.iacr.org/2024/1738
+
+---
+
+
