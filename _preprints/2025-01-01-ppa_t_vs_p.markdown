@@ -1,0 +1,11 @@
+---
+layout: post
+year: 2025
+title: "Privacy-Preserving Authentication: Theory vs. Practice"
+authors: Daniel Slamanig
+venue: arXiv:2501.07209 [cs.CR]
+pdf: https://arxiv.org/pdf/2501.07209
+web: https://arxiv.org/abs/2501.07209
+---
+
+
