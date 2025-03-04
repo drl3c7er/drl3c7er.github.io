@@ -1,0 +1,11 @@
+---
+layout: post
+year: 2025
+title: "Simple Public Key Anamorphic Encryption and Signature using Multi-Message Extensions"
+authors: Shalini Banerjee, Tapas Pal, Andy Rupp, and Daniel Slamanig
+venue: IACR Cryptology ePrint Archive Report 2025/370
+pdf: http://eprint.iacr.org/2025/370.pdf
+web: http://eprint.iacr.org/2025/370
+---
+
+
