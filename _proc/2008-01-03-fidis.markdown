@@ -3,7 +3,7 @@ layout: post
 year: 2008
 title: "Investigating Anonymity in Group Based Anonymous Authentication"
 authors: Daniel Slamanig, Christian Stingl
-venue: The Future of Identity in the Information Society
+venue: 4th IFIP WG 9.2, 9.6, 11.6, 11.7/FIDIS International Summer School
 vurl: http://dl.ifip.org/db/conf/ifip9-6/fidis2008/index.html
 pub: http://dx.doi.org/10.1007/978-3-642-03315-5_20
 bib: http://dblp.uni-trier.de/rec/bib/conf/ifip9-6/SlamanigS08

@@ -1,0 +1,11 @@
+---
+layout: post
+year: 2017
+title: "Secure and Privacy-Friendly Storage and Data Processing in the Cloud"
+authors: Pasquale Chiaro, Simone Fischer-Hübner, Thomas Groß, Stephan Krenn, Thomas Lorünser, Ana Isabel Martínez Garcí, Andrea Migliavacca, Kai Rannenberg, Daniel Slamanig, Christoph Striecks, Alberto Zanini
+venue: 12th IFIP WG 9.2, 9.5, 9.6/11.7, 11.6/SIG 9.2.2 International Summer School on Privacy and Identity Management
+vurl: https://dblp.org/db/conf/primelife/pim2017.html
+pub: https://doi.org/10.1007/978-3-319-92925-5_10
+bib: https://dblp.org/rec/conf/primelife/ChiaroFGKLGMRSS17.html?view=bibtex
+---
+
