@@ -4,6 +4,7 @@ year: 2025
 title: "Privacy-Preserving Authentication: Theory vs. Practice"
 authors: Daniel Slamanig
 venue: "19th IFIP WG 9.6/11.7 and IFIP WG 11.6 International Summer School on Privacy and Identity Management"
+vurl: https://link.springer.com/book/10.1007/978-3-031-91054-8
 pdf: https://arxiv.org/pdf/2501.07209
 web: https://arxiv.org/abs/2501.07209	
 pub: https://doi.org/10.1007/978-3-031-91054-8_1
