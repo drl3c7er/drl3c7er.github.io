@@ -1,0 +1,11 @@
+---
+layout: post
+year: 2025
+title: "Tanuki: New Frameworks for (Concurrently Secure) Blind Signatures from Post-Quantum Groups Actions"
+authors: Lucjan Hanzlik, Yi-Fu Lai, Marzio Mula, Eugenio Paracucchi, Daniel Slamanig and Gang Tang
+venue: IACR Cryptology ePrint Archive Report 2025/1100
+pdf: http://eprint.iacr.org/2025/1100.pdf
+web: http://eprint.iacr.org/2025/1100
+---
+
+
