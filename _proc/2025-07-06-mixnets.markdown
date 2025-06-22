@@ -1,12 +1,13 @@
 ---
 layout: post
-year: 2024
+year: 2025
 title: "A Certified-Input Mixnet from Two-Party Mercurial Signatures on Randomizable Ciphertexts"
 authors: Masayuki Abe, Masaya Nanri, Miyako Ohkubo, Octavio Perez Kempner, Daniel Slamanig, and Mehdi Tibouchi
-venue: IACR Cryptology ePrint Archive Report 2024/1503
+venue: 30th European Symposium on Research in Computer Security - ESORICS 2025
+vurl: https://esorics2025.sciencesconf.org
 pdf: http://eprint.iacr.org/2024/1503.pdf
 web: http://eprint.iacr.org/2024/1503
-
+vatt: (accepted)
 ---
 
 
