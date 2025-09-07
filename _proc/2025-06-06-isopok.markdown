@@ -7,7 +7,8 @@ venue: 45th Annual International Cryptology Conference - CRYPTO 2025
 vurl: https://crypto.iacr.org/2025/
 pdf: http://eprint.iacr.org/2024/1738.pdf
 web: http://eprint.iacr.org/2024/1738
-vatt: (accepted)
+pub: https://doi.org/10.1007/978-3-032-01855-7_5
+bib: https://dblp.org/rec/conf/crypto/HollanderKMSS25.html?view=bibtex
 ---
 
 
