@@ -1,0 +1,11 @@
+---
+layout: post
+year: 2025
+title: "Constant-Size Inner Product Arguments for Group-Scalar Relations, Dynamic Threshold VRFs, and More"
+authors: Omid Mir, Octavio Perez-Kempner, Sebastian Ramacher, and Daniel Slamanig
+venue: IACR Cryptology ePrint Archive Report 2025/1522
+pdf: http://eprint.iacr.org/2025/1522.pdf
+web: http://eprint.iacr.org/2025/1522
+---
+
+
