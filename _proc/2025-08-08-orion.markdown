@@ -1,6 +1,6 @@
 ---
 layout: post
-year: 2024
+year: 2025
 title: "A Crack in the Firmament: Restoring Soundness of the Orion Proof System and More"
 authors: Thomas den Hollander, Daniel Slamanig
 venue: 31st Annual International Conference on the Theory and Application of Cryptology and Information Security - ASIACRYPT 2025
