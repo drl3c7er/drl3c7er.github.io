@@ -1,0 +1,11 @@
+---
+layout: post
+year: 2025
+title: "Foundations of Dynamic Group Signatures: The Case of Malicious Openers and Issuers"
+authors: Stephan Krenn, Kai Samelin, and Daniel Slamanig
+venue: IACR Cryptology ePrint Archive Report 2025/1752
+pdf: http://eprint.iacr.org/2025/1752.pdf
+web: http://eprint.iacr.org/2025/1752
+---
+
+
