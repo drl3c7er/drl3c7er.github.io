@@ -7,7 +7,7 @@ venue: 31st Annual International Conference on the Theory and Application of Cry
 vurl: https://asiacrypt.iacr.org/2025/
 pdf: http://eprint.iacr.org/2024/1164.pdf
 web: http://eprint.iacr.org/2024/1164
-bib: https://doi.org/10.1007/978-981-95-5116-3_13
+pub: https://doi.org/10.1007/978-981-95-5116-3_13
 ---
 
 
