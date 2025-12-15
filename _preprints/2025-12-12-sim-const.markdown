@@ -1,0 +1,11 @@
+---
+layout: post
+year: 2025
+title: "Turning Simulation into Construction: New Uses of NIZK Simulators"
+authors: Stephan Krenn, Kai Samelin, and Daniel Slamanig
+venue: IACR Cryptology ePrint Archive Report 2025/2194
+pdf: https://eprint.iacr.org/2025/2194.pdf
+web: https://eprint.iacr.org/2025/2194
+---
+
+
