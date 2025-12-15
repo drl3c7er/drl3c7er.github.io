@@ -7,7 +7,7 @@ venue: 30th European Symposium on Research in Computer Security - ESORICS 2025
 vurl: https://esorics2025.sciencesconf.org
 pdf: http://eprint.iacr.org/2024/1503.pdf
 web: http://eprint.iacr.org/2024/1503
-vatt: (accepted)
+bib: https://doi.org/10.1007/978-3-032-07891-9_1
 ---
 
 
