@@ -3,7 +3,7 @@ layout: post
 year: 2026
 title: "SPRINT: New Isogeny Proofs of Knowledge and Isogeny-Based Signatures"
 authors: Thomas den Hollander, Shai Levin, Marzio Mula, Robi Pedersen, Daniel Slamanig, and Sebastian A. Spindler
-venue: IACR Cryptology ePrint Archive Report 2025/2194
+venue: IACR Cryptology ePrint Archive Report 2026/364
 pdf: https://eprint.iacr.org/2026/364.pdf
 web: https://eprint.iacr.org/2026/364
 ---
