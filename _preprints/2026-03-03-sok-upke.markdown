@@ -1,0 +1,11 @@
+---
+layout: post
+year: 2026
+title: "SoK: Updatable Public-Key Encryption"
+authors: Mark Manulis, Daniel Slamanig, and Federico Valbusa
+venue: IACR Cryptology ePrint Archive Report 2026/583
+pdf: https://eprint.iacr.org/2026/583.pdf
+web: https://eprint.iacr.org/2026/583
+---
+
+
