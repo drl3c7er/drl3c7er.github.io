@@ -7,7 +7,7 @@ venue: 17th International Conference on Post-Quantum Cryptography - PQCrypto 202
 vurl: https://pqcrypto2026.irisa.fr
 pdf: https://eprint.iacr.org/2026/193.pdf
 web: https://eprint.iacr.org/2026/193
-vatt: (accepted)
+pub: https://doi.org/10.1007/978-3-032-22698-3_2
 ---
 
 
