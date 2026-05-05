@@ -8,7 +8,6 @@ pdf: https://eprint.iacr.org/2020/403.pdf
 web: https://eprint.iacr.2020/403
 vurl: https://www.iacr.org/jofc/
 pub: https://doi.org/10.1007/s00145-024-09510-9
-
 ---
 
 
