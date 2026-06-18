@@ -1,10 +1,9 @@
 ---
 layout: post
 year: 2026
-title: "Proceedings of the 12th ACM International Workshop on Security and Privacy Analytics, IWSPA 2026"
+title: "Proceedings of the 12th ACM International Workshop on Security and Privacy Analytics, IWSPA 2026, Frankfurt am Main, Germany, June 24, 2026"
 authors: Amutheezan Sivagnanam, Daniel Slamanig
 venue: Association for Computing Machinery, New York, NY, United States
 pub: https://doi.org/10.1145/3806007
-
 ---
 
