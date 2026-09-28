@@ -5,15 +5,14 @@
     <div class="wrapper">
       {% include header.html %}
       <section>
-        
-        {%include bio.html %}
-        
+        {% include navigation.html %}
         {{content}}
+        {% if page.include_bio %}{% include bio.html %}{% endif %}
       </section>
    
       {% include footer.html %}     
  
     </div>
-    <script src="javascripts/scale.fix.js"></script>
+    <script src="{{ '/javascripts/scale.fix.js' | relative_url }}"></script>
   </body>
 </html>
