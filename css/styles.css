@@ -44,6 +44,43 @@ a:hover {
   color:#006600;
 }
 
+.linkbar {
+  display:flex;
+  flex-wrap:wrap;
+  gap:8px 18px;
+  list-style:none;
+  margin:0 0 28px;
+  padding:0 0 10px;
+  border-bottom:1px solid #e5e5e5;
+}
+
+.linkbar li {
+  margin:0;
+}
+
+.linkbar a {
+  font-weight:500;
+}
+
+.linkbar a[aria-current="page"] {
+  color:#222;
+  border-bottom:2px solid #008000;
+}
+
+.preview-list li:nth-child(n+11) {
+  display:none;
+}
+
+.archive-link {
+  margin-top:-10px;
+  text-align:right;
+}
+
+.bio-note {
+  border-left:3px solid #e5e5e5;
+  padding-left:14px;
+}
+
 .extlinks a {
   color:#008000;
 }
@@ -267,4 +304,3 @@ footer {
     color:#444;
   }
 }
-

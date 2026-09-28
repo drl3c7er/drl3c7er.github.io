@@ -1,0 +1,9 @@
+<nav aria-label="Main navigation">
+  <ul class="linkbar">
+    <li><a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Home</a></li>
+    <li><a href="{{ '/publications.html' | relative_url }}"{% if page.url == '/publications.html' %} aria-current="page"{% endif %}>Publications</a></li>
+    <li><a href="{{ '/academic-profile.html' | relative_url }}"{% if page.url == '/academic-profile.html' %} aria-current="page"{% endif %}>Academic Profile</a></li>
+    <li><a href="{{ '/news-activities.html' | relative_url }}"{% if page.url == '/news-activities.html' %} aria-current="page"{% endif %}>News &amp; Activities</a></li>
+    <li><a href="{{ '/short-bio.html' | relative_url }}"{% if page.url == '/short-bio.html' %} aria-current="page"{% endif %}>Short Bio</a></li>
+  </ul>
+</nav>
