@@ -94,6 +94,19 @@ a:hover {
   line-height:1.25;
 }
 
+.announcement {
+  margin:24px 0;
+  padding:12px 14px;
+  border-left:3px solid Crimson;
+  color:Crimson;
+  background:#fff8f8;
+}
+
+.announcement a {
+  color:inherit;
+  text-decoration:underline;
+}
+
 .extlinks a {
   color:#008000;
 }

@@ -7,16 +7,11 @@
 
 {% endif %}
 
-<!-- <p style="color:Crimson;">
-<b>NEWS:</b> We (<a href="http://manulis.eu" target="_blank">Mark Manulis</a> and me) have openings for PhD and PostDoc positions. Please take a look <a href="https://iacr.org/jobs/item/3854" target="_blank">here</a> for more information. If you are interested in working with us and our two groups in Munich please feel free to reach out to me!
-</p> -->
-
-<!-- <div style="color: Crimson;">
-<b>Announcements:</b>
-<ul style="list-style-type:square"> 
-<li> Join the <a href="https://sites.google.com/view/iwspa-2026/" style="color: inherit; text-decoration: underline;">12th ACM International Workshop on Security and Privacy Analytics (IWSPA 2026)</a> co-located with <a href="https://www.codaspy.org/2026/cfp.html" style="color: inherit; text-decoration: underline;">ACM CODASPY 2026</a> in Frankfurt on June 24th. I am co-chairing this workshop with <a href="https://amutheezan.com" style="color: inherit; text-decoration: underline;">Amutheezan Sivagnanam</a>
-</ul>
-</div> -->
+{% if page.show_announcement %}
+<aside class="announcement">
+  <strong>Call for Papers:</strong> I am one of the guest editors of the IEEE Communications Magazine Special Issue on <a href="https://www.comsoc.org/publications/magazines/ieee-communications-magazine/cfp/post-quantum-cryptography-real-world-deployment" target="_blank">Post-Quantum Cryptography for Real-World Deployment</a>. We welcome submissions on practical PQC algorithms, implementations, migration strategies, protocols, standards, and real-world deployments. The manuscript submission deadline is <strong>15 February 2027</strong>.
+</aside>
+{% endif %}
 
 {% if page.show_profile %}
 
