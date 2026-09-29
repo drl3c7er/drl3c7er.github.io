@@ -8,6 +8,7 @@
         {% include navigation.html %}
         {{content}}
         {% if page.include_bio %}{% include bio.html %}{% endif %}
+        {% if page.show_selected_publications %}{% include selected-publications.html %}{% endif %}
       </section>
    
       {% include footer.html %}     

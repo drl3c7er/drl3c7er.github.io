@@ -81,6 +81,19 @@ a:hover {
   padding-left:14px;
 }
 
+.selected-publications {
+  margin-top:36px;
+  padding-top:20px;
+  border-top:1px solid #e5e5e5;
+}
+
+.section-heading {
+  margin:0 0 10px;
+  font-size:18px;
+  font-weight:600;
+  line-height:1.25;
+}
+
 .extlinks a {
   color:#008000;
 }

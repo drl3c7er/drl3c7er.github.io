@@ -1,6 +1,7 @@
 ---
 layout: post
 year: 2023
+selected: true
 title: "Aggregate Signatures with Versatile Randomization and Issuer-Hiding Multi-Authority Anonymous Credentials"
 authors: <code>&ast;</code>Omid Mir, Balthazar Bauer, Scott Griffy, Anna Lysyanskaya, Daniel Slamanig
 venue: "30th ACM Conference on Computer and Communications Security - ACM CCS 2023"
@@ -13,5 +14,4 @@ bib: https://dblp.org/rec/conf/ccs/MirBGLS23.html?view=bibtex
 
 
 ---
-
 

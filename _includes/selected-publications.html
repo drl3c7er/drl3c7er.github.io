@@ -1,0 +1,12 @@
+<div class="selected-publications">
+  <h2 class="section-heading">SELECTED PUBLICATIONS</h2>
+  <p>A selection spanning recent work and established research directions. See the <a href="{{ '/publications.html' | relative_url }}">complete list of publications</a>.</p>
+
+  <table class="pubtable">
+    {% assign all_publications = site.proc | concat: site.articles %}
+    {% assign selected_publications = all_publications | where: "selected", true | sort: "year" | reverse %}
+    {% for post in selected_publications %}
+      {% include pubentry.html %}
+    {% endfor %}
+  </table>
+</div>

@@ -1,6 +1,7 @@
 ---
 layout: post
 year: 2025
+selected: true
 title: "More Efficient Isogeny Proofs of Knowledge via Canonical Modular Polynomials"
 authors: Thomas den Hollander, Sören Kleine, Marzio Mula, Daniel Slamanig, and Sebastian A. Spindler
 venue: 45th Annual International Cryptology Conference - CRYPTO 2025
@@ -10,5 +11,4 @@ web: http://eprint.iacr.org/2024/1738
 pub: https://doi.org/10.1007/978-3-032-01855-7_5
 bib: https://dblp.org/rec/conf/crypto/HollanderKMSS25.html?view=bibtex
 ---
-
 

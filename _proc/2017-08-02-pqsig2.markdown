@@ -1,6 +1,7 @@
 ---
 layout: post
 year: 2017
+selected: true
 title: Post-Quantum Zero-Knowledge and Signatures from Symmetric-Key Primitives
 authors: Melissa Chase, David Derler, Steven Goldfeder, Claudio Orlandi, Sebastian Ramacher, Christian Rechberger, Daniel Slamanig, Greg Zaverucha
 venue: "24th ACM Conference on Computer and Communications Security - ACM CCS 2017" 
@@ -11,4 +12,3 @@ bib: http://dblp.uni-trier.de/rec/bibtex/conf/ccs/ChaseDGORRSZ17
 pub: http://doi.acm.org/10.1145/3133956.3133997
 github: https://microsoft.github.io/Picnic/
 ---
-
