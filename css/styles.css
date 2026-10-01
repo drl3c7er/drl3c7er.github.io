@@ -107,6 +107,24 @@ a:hover {
   text-decoration:underline;
 }
 
+.publication-award,
+.publication-note,
+.publication-warning {
+  font-weight:600;
+}
+
+.publication-award {
+  color:#9a6700;
+}
+
+.publication-note {
+  color:#245a8d;
+}
+
+.publication-warning {
+  color:Crimson;
+}
+
 .extlinks a {
   color:#008000;
 }
