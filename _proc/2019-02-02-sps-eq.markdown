@@ -10,6 +10,7 @@ web: http://eprint.iacr.org/2019/1120
 pub: https://doi.org/10.1007/978-3-030-34618-8_3
 bib: https://dblp.org/rec/bib/conf/asiacrypt/KhaliliSD19
 talk: publications/talks/ac19_sps-eq.pdf
+award: "Warning: There is a bug in the unforgeability proof and so the construction is only heuristically secure!"
 ---
 
 
