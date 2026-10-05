@@ -1,0 +1,11 @@
+---
+layout: post
+year: 2026
+title: "Context-Blind Device-Bound Anonymous Credentials from Signatures and Proofs"
+authors: Mark Manulis, Alan Pulval-Dady, Daniel Slamanig, Dave Wittig
+venue: IACR Cryptology ePrint Archive Report 2026/2295
+pdf: https://eprint.iacr.org/2026/2295.pdf
+web: https://eprint.iacr.org/2026/2295
+---
+
+
