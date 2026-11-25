@@ -94,6 +94,145 @@ a:hover {
   line-height:1.25;
 }
 
+.profile-section-heading {
+  margin:32px 0 16px;
+  padding-bottom:7px;
+  border-bottom:1px solid #e5e5e5;
+  font-size:20px;
+  font-weight:600;
+  line-height:1.25;
+}
+
+.profile-subheading {
+  margin:24px 0 10px;
+  font-size:17px;
+  font-weight:600;
+}
+
+.profile-columns,
+.project-grid {
+  display:grid;
+  grid-template-columns:repeat(2, minmax(0, 1fr));
+  gap:18px;
+}
+
+.profile-panel {
+  padding:14px 16px 2px;
+  border:1px solid #e5e5e5;
+  background:#fafafa;
+}
+
+.profile-panel h4,
+.profile-columns h5 {
+  margin-bottom:10px;
+  font-weight:600;
+}
+
+.profile-list,
+.profile-grid {
+  padding-left:20px;
+  list-style-type:square;
+}
+
+.profile-list li,
+.profile-grid li {
+  margin-bottom:7px;
+}
+
+.profile-grid {
+  display:grid;
+  grid-template-columns:1fr;
+  gap:0;
+  margin-bottom:16px;
+}
+
+.profile-grid-wide {
+  grid-template-columns:repeat(2, minmax(0, 1fr));
+  column-gap:28px;
+}
+
+.profile-meta {
+  display:block;
+  color:#777;
+  font-size:14px;
+  line-height:1.35;
+}
+
+.profile-years {
+  color:#777;
+  white-space:nowrap;
+}
+
+.profile-details {
+  margin:12px 0;
+  padding:10px 12px;
+  border:1px solid #e5e5e5;
+  background:#fafafa;
+}
+
+.profile-details summary {
+  color:#494949;
+  font-weight:600;
+  cursor:pointer;
+}
+
+.profile-details p {
+  margin:12px 0 2px;
+}
+
+.profile-summary-note {
+  font-weight:400;
+}
+
+.project-grid {
+  margin-bottom:22px;
+}
+
+.project-card {
+  position:relative;
+  padding:16px;
+  border:1px solid #e5e5e5;
+  border-left:3px solid #aaa;
+  background:#fafafa;
+}
+
+.project-card-current {
+  border-left-color:#008000;
+}
+
+.project-card h4 {
+  margin:20px 0 4px;
+  font-size:17px;
+  font-weight:600;
+}
+
+.project-card p {
+  margin:0;
+  line-height:1.4;
+}
+
+.project-card .project-note {
+  margin-top:10px;
+  font-size:14px;
+}
+
+.profile-tag {
+  position:absolute;
+  top:12px;
+  right:12px;
+  padding:2px 7px;
+  border-radius:2px;
+  background:#e7f3e7;
+  color:#006600;
+  font-size:12px;
+  font-weight:600;
+}
+
+.profile-tag-completed {
+  background:#ededed;
+  color:#666;
+}
+
 .announcement {
   margin:24px 0;
   padding:12px 14px;
@@ -326,6 +465,12 @@ footer {
   header ul, header p.view {
     
     position:static;
+  }
+
+  .profile-columns,
+  .project-grid,
+  .profile-grid-wide {
+    grid-template-columns:1fr;
   }
 
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 year: 2026
+selected: true
 title: "Simple Asymmetric Anamorphic Encryption and Signature Using Multi-message Extensions"
 authors: Shalini Banerjee, Tapas Pal, Andy Rupp, and Daniel Slamanig
 venue: 46th Annual International Cryptology Conference - CRYPTO 2026
